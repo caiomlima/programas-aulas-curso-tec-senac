@@ -1,0 +1,10 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Relogio\Relogio\bin\Debug\Relogio.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Relogio\Relogio\bin\Debug\Relogio.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Relogio\Relogio\bin\Debug\Relogio.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Relogio\Relogio\obj\Debug\Relogio.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Relogio\Relogio\obj\Debug\Relogio.form_relogio.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Relogio\Relogio\obj\Debug\Relogio.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Relogio\Relogio\obj\Debug\Relogio.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Relogio\Relogio\obj\Debug\Relogio.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Relogio\Relogio\obj\Debug\Relogio.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Relogio\Relogio\obj\Debug\Relogio.pdb

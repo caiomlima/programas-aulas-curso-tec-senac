@@ -1,0 +1,10 @@
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\IMC Visual\IMC Visual\bin\Debug\IMC Visual.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\IMC Visual\IMC Visual\bin\Debug\IMC Visual.exe
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\IMC Visual\IMC Visual\bin\Debug\IMC Visual.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\IMC Visual\IMC Visual\obj\Debug\IMC Visual.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\IMC Visual\IMC Visual\obj\Debug\IMC_Visual.Form1.resources
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\IMC Visual\IMC Visual\obj\Debug\IMC_Visual.Properties.Resources.resources
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\IMC Visual\IMC Visual\obj\Debug\IMC Visual.csproj.GenerateResource.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\IMC Visual\IMC Visual\obj\Debug\IMC Visual.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\IMC Visual\IMC Visual\obj\Debug\IMC Visual.exe
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\IMC Visual\IMC Visual\obj\Debug\IMC Visual.pdb

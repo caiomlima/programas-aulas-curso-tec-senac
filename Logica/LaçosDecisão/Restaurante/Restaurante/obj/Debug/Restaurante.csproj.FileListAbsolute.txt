@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Restaurante\Restaurante\obj\Debug\Restaurante.pdb

@@ -1,0 +1,6 @@
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Diagonal Secundaria\Matriz Diagonal Secundaria\bin\Debug\Matriz Diagonal Secundaria.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Diagonal Secundaria\Matriz Diagonal Secundaria\bin\Debug\Matriz Diagonal Secundaria.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Diagonal Secundaria\Matriz Diagonal Secundaria\bin\Debug\Matriz Diagonal Secundaria.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Diagonal Secundaria\Matriz Diagonal Secundaria\obj\Debug\Matriz Diagonal Secundaria.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Diagonal Secundaria\Matriz Diagonal Secundaria\obj\Debug\Matriz Diagonal Secundaria.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Diagonal Secundaria\Matriz Diagonal Secundaria\obj\Debug\Matriz Diagonal Secundaria.pdb

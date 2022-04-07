@@ -1,0 +1,10 @@
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Reserva De Passagens\Reserva De Passagens\bin\Debug\Reserva De Passagens.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Reserva De Passagens\Reserva De Passagens\bin\Debug\Reserva De Passagens.exe
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Reserva De Passagens\Reserva De Passagens\bin\Debug\Reserva De Passagens.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Reserva De Passagens\Reserva De Passagens\obj\Debug\Reserva De Passagens.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Reserva De Passagens\Reserva De Passagens\obj\Debug\Reserva_De_Passagens.Properties.Resources.resources
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Reserva De Passagens\Reserva De Passagens\obj\Debug\Reserva De Passagens.csproj.GenerateResource.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Reserva De Passagens\Reserva De Passagens\obj\Debug\Reserva De Passagens.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Reserva De Passagens\Reserva De Passagens\obj\Debug\Reserva De Passagens.exe
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Reserva De Passagens\Reserva De Passagens\obj\Debug\Reserva De Passagens.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Reserva De Passagens\Reserva De Passagens\obj\Debug\Reserva_De_Passagens.Form1.resources

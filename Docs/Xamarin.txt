@@ -1,0 +1,63 @@
+// Data Bind: 
+- É a vinculação de propriedades onde a alteração de 1 item muda o outro vinculado a ele (EX: Slider c/ label para exibir o valor ajustado)
+- É colocado direto no XAML, com os x:Name (IDs) de cada item
+- Ex de cód.: Text="{Binding Source={x:Reference slider}, Path=Value}"
+
+
+// Estrutura de uma Page:
+- Page, Layout e Views (Componentes, como uma Label)
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Layouts.StackLayoutPage">
+    <StackLayout>
+        <Label Text="Xamarin Forms 1"/>
+        <Label Text="Xamarin Forms 2"/>
+        <Label Text="Xamarin Forms 3"/>
+    </StackLayout>
+</ContentPage>
+
+
+// StackLayout:
+- Como o nome diz, Layout em Pilha, podendo ser Vertical e Horizontal
+
+// Grid:
+- O ínicio dos rows e columns é 0
+- Ex: Em uma grid de 2x2, fica:
+ Grid.Row="0" Grid.Column="0" Text="Label 1"
+ Grid.Row="1" Grid.Column="0" Text="Label 2"
+ Grid.Row="0" Grid.Column="1" Text="Label 3"
+ Grid.Row="1" Grid.Column="1" Text="Label 4"
+
+ Label 1   Label 3
+ Label 2   Label 4
+
+
+// Absolute Layout
+- Posiciona os items de forma absoluta (Fixa) na tela, definindo a posição, o quanto ocupa e onde fica.
+- Utiliza X, Y Largura e Altura para posicionamento na tela.
+
+
+// Relative Layout
+- Sobrepõe elementos
+- Aplica restrições para posições e tamanhos com base em outro elemento.
+- A posição de uma View é relativo a View de cima (View Pai)
+- Utiliza X, Y Largura e Altura para posicionamento na tela.
+
+
+// ScrollView
+- Faz com que os Layouts e as Views possam ter scroll na tela
+- Estrutura do ScrollView:
+    <ScrollView>
+        <StackLayout>
+            <BoxView Color="Blue" HeightRequest="500" WidthRequest="200"/>
+            <BoxView Color="Lime" HeightRequest="500" WidthRequest="200"/>
+            <BoxView Color="Red" HeightRequest="500" WidthRequest="200"/>
+        </StackLayout>
+    </ScrollView>
+
+// ViewFrame = Fragment que pode ser colocado em outras Pages
+
+// ListView
+- Exibe uma lista (coleção de itens), com possibilidade de rolagem
+- Faz um auto foreach para exibir todos os itens

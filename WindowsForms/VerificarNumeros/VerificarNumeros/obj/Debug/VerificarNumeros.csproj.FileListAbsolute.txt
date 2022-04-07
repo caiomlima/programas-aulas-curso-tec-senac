@@ -1,0 +1,10 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\VerificarNumeros\VerificarNumeros\bin\Debug\VerificarNumeros.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\VerificarNumeros\VerificarNumeros\bin\Debug\VerificarNumeros.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\VerificarNumeros\VerificarNumeros\bin\Debug\VerificarNumeros.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\VerificarNumeros\VerificarNumeros\obj\Debug\VerificarNumeros.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\VerificarNumeros\VerificarNumeros\obj\Debug\VerificarNumeros.FrmVerifica.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\VerificarNumeros\VerificarNumeros\obj\Debug\VerificarNumeros.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\VerificarNumeros\VerificarNumeros\obj\Debug\VerificarNumeros.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\VerificarNumeros\VerificarNumeros\obj\Debug\VerificarNumeros.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\VerificarNumeros\VerificarNumeros\obj\Debug\VerificarNumeros.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\VerificarNumeros\VerificarNumeros\obj\Debug\VerificarNumeros.pdb

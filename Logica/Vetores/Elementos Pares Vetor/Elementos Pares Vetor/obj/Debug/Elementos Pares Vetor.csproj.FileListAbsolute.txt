@@ -1,0 +1,6 @@
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Elementos Pares Vetor\Elementos Pares Vetor\bin\Debug\Elementos Pares Vetor.exe.config
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Elementos Pares Vetor\Elementos Pares Vetor\bin\Debug\Elementos Pares Vetor.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Elementos Pares Vetor\Elementos Pares Vetor\bin\Debug\Elementos Pares Vetor.pdb
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Elementos Pares Vetor\Elementos Pares Vetor\obj\Debug\Elementos Pares Vetor.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Elementos Pares Vetor\Elementos Pares Vetor\obj\Debug\Elementos Pares Vetor.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Elementos Pares Vetor\Elementos Pares Vetor\obj\Debug\Elementos Pares Vetor.pdb

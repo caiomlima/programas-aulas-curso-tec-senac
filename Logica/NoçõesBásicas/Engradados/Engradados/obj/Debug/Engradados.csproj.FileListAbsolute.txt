@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Engradados\Engradados\bin\Debug\Engradados.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Engradados\Engradados\bin\Debug\Engradados.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Engradados\Engradados\bin\Debug\Engradados.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Engradados\Engradados\obj\Debug\Engradados.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Engradados\Engradados\obj\Debug\Engradados.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Engradados\Engradados\obj\Debug\Engradados.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Engradados\Engradados\obj\Debug\Engradados.pdb

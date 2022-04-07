@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numeros Triangulares", "Numeros Triangulares\Numeros Triangulares.csproj", "{A2458788-761C-4C77-ACD3-6DD63C04A0DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2458788-761C-4C77-ACD3-6DD63C04A0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2458788-761C-4C77-ACD3-6DD63C04A0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2458788-761C-4C77-ACD3-6DD63C04A0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2458788-761C-4C77-ACD3-6DD63C04A0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E68CF9E1-1478-4212-8178-28BC3782790B}
+	EndGlobalSection
+EndGlobal

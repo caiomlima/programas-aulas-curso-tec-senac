@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Varios Numeros Digitados\Varios Numeros Digitados\bin\Debug\Varios Numeros Digitados.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Varios Numeros Digitados\Varios Numeros Digitados\bin\Debug\Varios Numeros Digitados.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Varios Numeros Digitados\Varios Numeros Digitados\bin\Debug\Varios Numeros Digitados.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Varios Numeros Digitados\Varios Numeros Digitados\obj\Debug\Varios Numeros Digitados.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Varios Numeros Digitados\Varios Numeros Digitados\obj\Debug\Varios Numeros Digitados.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Varios Numeros Digitados\Varios Numeros Digitados\obj\Debug\Varios Numeros Digitados.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Varios Numeros Digitados\Varios Numeros Digitados\obj\Debug\Varios Numeros Digitados.pdb

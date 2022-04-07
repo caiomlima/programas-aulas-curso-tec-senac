@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Busca Sequencial na Matriz\Busca Sequencial na Matriz\bin\Debug\Busca Sequencial na Matriz.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Busca Sequencial na Matriz\Busca Sequencial na Matriz\bin\Debug\Busca Sequencial na Matriz.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Busca Sequencial na Matriz\Busca Sequencial na Matriz\bin\Debug\Busca Sequencial na Matriz.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Busca Sequencial na Matriz\Busca Sequencial na Matriz\obj\Debug\Busca Sequencial na Matriz.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Busca Sequencial na Matriz\Busca Sequencial na Matriz\obj\Debug\Busca Sequencial na Matriz.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Busca Sequencial na Matriz\Busca Sequencial na Matriz\obj\Debug\Busca Sequencial na Matriz.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Busca Sequencial na Matriz\Busca Sequencial na Matriz\obj\Debug\Busca Sequencial na Matriz.pdb

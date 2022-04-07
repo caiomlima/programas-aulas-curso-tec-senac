@@ -1,0 +1,10 @@
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Classe Visual\Classe Visual\bin\Debug\Classe Visual.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Classe Visual\Classe Visual\bin\Debug\Classe Visual.exe
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Classe Visual\Classe Visual\bin\Debug\Classe Visual.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Classe Visual\Classe Visual\obj\Debug\Classe Visual.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Classe Visual\Classe Visual\obj\Debug\Classe_Visual.MainForm.resources
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Classe Visual\Classe Visual\obj\Debug\Classe_Visual.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Classe Visual\Classe Visual\obj\Debug\Classe Visual.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Classe Visual\Classe Visual\obj\Debug\Classe Visual.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Classe Visual\Classe Visual\obj\Debug\Classe Visual.exe
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Classe Visual\Classe Visual\obj\Debug\Classe Visual.pdb

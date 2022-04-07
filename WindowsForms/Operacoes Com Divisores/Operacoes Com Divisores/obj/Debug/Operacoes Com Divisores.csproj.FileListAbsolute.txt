@@ -1,0 +1,10 @@
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Operacoes Com Divisores\Operacoes Com Divisores\bin\Debug\Operacoes Com Divisores.exe.config
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Operacoes Com Divisores\Operacoes Com Divisores\bin\Debug\Operacoes Com Divisores.exe
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Operacoes Com Divisores\Operacoes Com Divisores\bin\Debug\Operacoes Com Divisores.pdb
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Operacoes Com Divisores\Operacoes Com Divisores\obj\Debug\Operacoes Com Divisores.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Operacoes Com Divisores\Operacoes Com Divisores\obj\Debug\Operacoes_Com_Divisores.Form1.resources
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Operacoes Com Divisores\Operacoes Com Divisores\obj\Debug\Operacoes_Com_Divisores.Properties.Resources.resources
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Operacoes Com Divisores\Operacoes Com Divisores\obj\Debug\Operacoes Com Divisores.csproj.GenerateResource.cache
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Operacoes Com Divisores\Operacoes Com Divisores\obj\Debug\Operacoes Com Divisores.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Operacoes Com Divisores\Operacoes Com Divisores\obj\Debug\Operacoes Com Divisores.exe
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Operacoes Com Divisores\Operacoes Com Divisores\obj\Debug\Operacoes Com Divisores.pdb

@@ -1,0 +1,6 @@
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetores Par ou Impar\Vetores Par ou Impar\bin\Debug\Vetores Par ou Impar.exe.config
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetores Par ou Impar\Vetores Par ou Impar\bin\Debug\Vetores Par ou Impar.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetores Par ou Impar\Vetores Par ou Impar\bin\Debug\Vetores Par ou Impar.pdb
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetores Par ou Impar\Vetores Par ou Impar\obj\Debug\Vetores Par ou Impar.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetores Par ou Impar\Vetores Par ou Impar\obj\Debug\Vetores Par ou Impar.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetores Par ou Impar\Vetores Par ou Impar\obj\Debug\Vetores Par ou Impar.pdb

@@ -1,0 +1,6 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\QuadradosDe1a20For\QuadradosDe1a20For\bin\Debug\QuadradosDe1a20For.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\QuadradosDe1a20For\QuadradosDe1a20For\bin\Debug\QuadradosDe1a20For.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\QuadradosDe1a20For\QuadradosDe1a20For\bin\Debug\QuadradosDe1a20For.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\QuadradosDe1a20For\QuadradosDe1a20For\obj\Debug\QuadradosDe1a20For.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\QuadradosDe1a20For\QuadradosDe1a20For\obj\Debug\QuadradosDe1a20For.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\QuadradosDe1a20For\QuadradosDe1a20For\obj\Debug\QuadradosDe1a20For.pdb

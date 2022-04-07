@@ -1,0 +1,10 @@
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Heranca Visual\Heranca Visual\bin\Debug\Heranca Visual.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Heranca Visual\Heranca Visual\bin\Debug\Heranca Visual.exe
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Heranca Visual\Heranca Visual\bin\Debug\Heranca Visual.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Heranca Visual\Heranca Visual\obj\Debug\Heranca Visual.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Heranca Visual\Heranca Visual\obj\Debug\Heranca_Visual.MainForm.resources
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Heranca Visual\Heranca Visual\obj\Debug\Heranca_Visual.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Heranca Visual\Heranca Visual\obj\Debug\Heranca Visual.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Heranca Visual\Heranca Visual\obj\Debug\Heranca Visual.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Heranca Visual\Heranca Visual\obj\Debug\Heranca Visual.exe
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Heranca Visual\Heranca Visual\obj\Debug\Heranca Visual.pdb

@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Binaria\Matriz Binaria\bin\Debug\Matriz Binaria.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Binaria\Matriz Binaria\bin\Debug\Matriz Binaria.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Binaria\Matriz Binaria\bin\Debug\Matriz Binaria.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Binaria\Matriz Binaria\obj\Debug\Matriz Binaria.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Binaria\Matriz Binaria\obj\Debug\Matriz Binaria.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Binaria\Matriz Binaria\obj\Debug\Matriz Binaria.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Binaria\Matriz Binaria\obj\Debug\Matriz Binaria.pdb

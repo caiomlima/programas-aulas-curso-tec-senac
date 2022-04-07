@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Dif e Soma\Vetor Dif e Soma\bin\Debug\Vetor Dif e Soma.exe.config
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Dif e Soma\Vetor Dif e Soma\bin\Debug\Vetor Dif e Soma.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Dif e Soma\Vetor Dif e Soma\bin\Debug\Vetor Dif e Soma.pdb
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Dif e Soma\Vetor Dif e Soma\obj\Debug\Vetor Dif e Soma.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Dif e Soma\Vetor Dif e Soma\obj\Debug\Vetor Dif e Soma.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Dif e Soma\Vetor Dif e Soma\obj\Debug\Vetor Dif e Soma.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Dif e Soma\Vetor Dif e Soma\obj\Debug\Vetor Dif e Soma.pdb

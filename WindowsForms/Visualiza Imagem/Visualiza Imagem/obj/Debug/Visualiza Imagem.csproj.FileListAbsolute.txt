@@ -1,0 +1,10 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Visualiza Imagem\Visualiza Imagem\bin\Debug\Visualiza Imagem.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Visualiza Imagem\Visualiza Imagem\bin\Debug\Visualiza Imagem.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Visualiza Imagem\Visualiza Imagem\bin\Debug\Visualiza Imagem.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Visualiza Imagem\Visualiza Imagem\obj\Debug\Visualiza Imagem.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Visualiza Imagem\Visualiza Imagem\obj\Debug\Visualiza_Imagem.form_imagem.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Visualiza Imagem\Visualiza Imagem\obj\Debug\Visualiza_Imagem.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Visualiza Imagem\Visualiza Imagem\obj\Debug\Visualiza Imagem.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Visualiza Imagem\Visualiza Imagem\obj\Debug\Visualiza Imagem.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Visualiza Imagem\Visualiza Imagem\obj\Debug\Visualiza Imagem.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Visualiza Imagem\Visualiza Imagem\obj\Debug\Visualiza Imagem.pdb

@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Posicoes X e Y\Posicoes X e Y\bin\Debug\Posicoes X e Y.exe.config
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Posicoes X e Y\Posicoes X e Y\bin\Debug\Posicoes X e Y.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Posicoes X e Y\Posicoes X e Y\bin\Debug\Posicoes X e Y.pdb
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Posicoes X e Y\Posicoes X e Y\obj\Debug\Posicoes X e Y.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Posicoes X e Y\Posicoes X e Y\obj\Debug\Posicoes X e Y.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Posicoes X e Y\Posicoes X e Y\obj\Debug\Posicoes X e Y.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Posicoes X e Y\Posicoes X e Y\obj\Debug\Posicoes X e Y.pdb

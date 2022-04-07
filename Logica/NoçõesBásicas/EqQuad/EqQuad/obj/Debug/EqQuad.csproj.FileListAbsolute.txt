@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\EqQuad\EqQuad\bin\Debug\EqQuad.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\EqQuad\EqQuad\bin\Debug\EqQuad.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\EqQuad\EqQuad\bin\Debug\EqQuad.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\EqQuad\EqQuad\obj\Debug\EqQuad.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\EqQuad\EqQuad\obj\Debug\EqQuad.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\EqQuad\EqQuad\obj\Debug\EqQuad.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\EqQuad\EqQuad\obj\Debug\EqQuad.pdb

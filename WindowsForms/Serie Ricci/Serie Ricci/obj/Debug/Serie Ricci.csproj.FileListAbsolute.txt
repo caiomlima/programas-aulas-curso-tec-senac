@@ -1,0 +1,10 @@
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Ricci\Serie Ricci\bin\Debug\Serie Ricci.exe.config
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Ricci\Serie Ricci\bin\Debug\Serie Ricci.exe
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Ricci\Serie Ricci\bin\Debug\Serie Ricci.pdb
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Ricci\Serie Ricci\obj\Debug\Serie Ricci.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Ricci\Serie Ricci\obj\Debug\Serie_Ricci.Form.resources
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Ricci\Serie Ricci\obj\Debug\Serie_Ricci.Properties.Resources.resources
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Ricci\Serie Ricci\obj\Debug\Serie Ricci.csproj.GenerateResource.cache
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Ricci\Serie Ricci\obj\Debug\Serie Ricci.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Ricci\Serie Ricci\obj\Debug\Serie Ricci.exe
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Ricci\Serie Ricci\obj\Debug\Serie Ricci.pdb

@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Primeiro Vetor\Primeiro Vetor\bin\Debug\Primeiro Vetor.exe.config
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Primeiro Vetor\Primeiro Vetor\bin\Debug\Primeiro Vetor.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Primeiro Vetor\Primeiro Vetor\bin\Debug\Primeiro Vetor.pdb
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Primeiro Vetor\Primeiro Vetor\obj\Debug\Primeiro Vetor.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Primeiro Vetor\Primeiro Vetor\obj\Debug\Primeiro Vetor.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Primeiro Vetor\Primeiro Vetor\obj\Debug\Primeiro Vetor.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Primeiro Vetor\Primeiro Vetor\obj\Debug\Primeiro Vetor.pdb

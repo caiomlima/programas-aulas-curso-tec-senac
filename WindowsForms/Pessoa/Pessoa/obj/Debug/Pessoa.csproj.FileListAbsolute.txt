@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Pessoa\Pessoa\bin\Debug\Pessoa.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Pessoa\Pessoa\bin\Debug\Pessoa.exe
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Pessoa\Pessoa\bin\Debug\Pessoa.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Pessoa\Pessoa\obj\Debug\Pessoa.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Pessoa\Pessoa\obj\Debug\Pessoa.exe
+D:\# Development\Lógica De Programação\Linguagem C#\POO\Pessoa\Pessoa\obj\Debug\Pessoa.pdb

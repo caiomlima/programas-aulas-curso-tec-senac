@@ -1,0 +1,10 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Movimenta Teclas\Movimenta Teclas\bin\Debug\Movimenta Teclas.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Movimenta Teclas\Movimenta Teclas\bin\Debug\Movimenta Teclas.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Movimenta Teclas\Movimenta Teclas\bin\Debug\Movimenta Teclas.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Movimenta Teclas\Movimenta Teclas\obj\Debug\Movimenta Teclas.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Movimenta Teclas\Movimenta Teclas\obj\Debug\Movimenta_Teclas.FormMoviTeclas.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Movimenta Teclas\Movimenta Teclas\obj\Debug\Movimenta_Teclas.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Movimenta Teclas\Movimenta Teclas\obj\Debug\Movimenta Teclas.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Movimenta Teclas\Movimenta Teclas\obj\Debug\Movimenta Teclas.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Movimenta Teclas\Movimenta Teclas\obj\Debug\Movimenta Teclas.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Movimenta Teclas\Movimenta Teclas\obj\Debug\Movimenta Teclas.pdb

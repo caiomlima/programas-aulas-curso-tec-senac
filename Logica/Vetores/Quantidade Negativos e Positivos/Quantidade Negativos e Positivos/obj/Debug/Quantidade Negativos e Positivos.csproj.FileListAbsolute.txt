@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Quantidade Negativos e Positivos\Quantidade Negativos e Positivos\bin\Debug\Quantidade Negativos e Positivos.exe.config
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Quantidade Negativos e Positivos\Quantidade Negativos e Positivos\bin\Debug\Quantidade Negativos e Positivos.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Quantidade Negativos e Positivos\Quantidade Negativos e Positivos\bin\Debug\Quantidade Negativos e Positivos.pdb
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Quantidade Negativos e Positivos\Quantidade Negativos e Positivos\obj\Debug\Quantidade Negativos e Positivos.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Quantidade Negativos e Positivos\Quantidade Negativos e Positivos\obj\Debug\Quantidade Negativos e Positivos.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Quantidade Negativos e Positivos\Quantidade Negativos e Positivos\obj\Debug\Quantidade Negativos e Positivos.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Quantidade Negativos e Positivos\Quantidade Negativos e Positivos\obj\Debug\Quantidade Negativos e Positivos.pdb

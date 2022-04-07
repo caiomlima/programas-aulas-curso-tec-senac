@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Soma das Diagonais", "Soma das Diagonais\Soma das Diagonais.csproj", "{C8282FC9-94CF-4200-A3B7-A10B5A4E78BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8282FC9-94CF-4200-A3B7-A10B5A4E78BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8282FC9-94CF-4200-A3B7-A10B5A4E78BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8282FC9-94CF-4200-A3B7-A10B5A4E78BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8282FC9-94CF-4200-A3B7-A10B5A4E78BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0840DC68-DD97-45B5-981E-A7C66EE23391}
+	EndGlobalSection
+EndGlobal

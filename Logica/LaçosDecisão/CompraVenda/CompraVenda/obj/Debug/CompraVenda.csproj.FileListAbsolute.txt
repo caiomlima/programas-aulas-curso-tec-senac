@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\source\repos\CompraVenda\CompraVenda\bin\Debug\CompraVenda.exe.config
+C:\Users\caio.mlima5\source\repos\CompraVenda\CompraVenda\bin\Debug\CompraVenda.exe
+C:\Users\caio.mlima5\source\repos\CompraVenda\CompraVenda\bin\Debug\CompraVenda.pdb
+C:\Users\caio.mlima5\source\repos\CompraVenda\CompraVenda\obj\Debug\CompraVenda.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\source\repos\CompraVenda\CompraVenda\obj\Debug\CompraVenda.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\source\repos\CompraVenda\CompraVenda\obj\Debug\CompraVenda.exe
+C:\Users\caio.mlima5\source\repos\CompraVenda\CompraVenda\obj\Debug\CompraVenda.pdb

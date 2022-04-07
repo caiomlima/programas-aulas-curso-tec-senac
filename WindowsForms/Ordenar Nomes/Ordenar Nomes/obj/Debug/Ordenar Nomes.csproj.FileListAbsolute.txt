@@ -1,0 +1,10 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Ordenar Nomes\Ordenar Nomes\bin\Debug\Ordenar Nomes.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Ordenar Nomes\Ordenar Nomes\bin\Debug\Ordenar Nomes.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Ordenar Nomes\Ordenar Nomes\bin\Debug\Ordenar Nomes.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Ordenar Nomes\Ordenar Nomes\obj\Debug\Ordenar Nomes.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Ordenar Nomes\Ordenar Nomes\obj\Debug\Ordenar_Nomes.FormOrdenarNomes.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Ordenar Nomes\Ordenar Nomes\obj\Debug\Ordenar_Nomes.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Ordenar Nomes\Ordenar Nomes\obj\Debug\Ordenar Nomes.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Ordenar Nomes\Ordenar Nomes\obj\Debug\Ordenar Nomes.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Ordenar Nomes\Ordenar Nomes\obj\Debug\Ordenar Nomes.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Ordenar Nomes\Ordenar Nomes\obj\Debug\Ordenar Nomes.pdb

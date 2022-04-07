@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\ConversaoTemp\ConversaoTemp\bin\Debug\ConversaoTemp.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\ConversaoTemp\ConversaoTemp\bin\Debug\ConversaoTemp.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\ConversaoTemp\ConversaoTemp\bin\Debug\ConversaoTemp.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\ConversaoTemp\ConversaoTemp\obj\Debug\ConversaoTemp.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\ConversaoTemp\ConversaoTemp\obj\Debug\ConversaoTemp.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\ConversaoTemp\ConversaoTemp\obj\Debug\ConversaoTemp.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\ConversaoTemp\ConversaoTemp\obj\Debug\ConversaoTemp.pdb

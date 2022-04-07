@@ -1,0 +1,7 @@
+C:\Users\M3iEX\source\repos\Matriz Superior e Inferior\Matriz Superior e Inferior\bin\Debug\Matriz Superior e Inferior.exe.config
+C:\Users\M3iEX\source\repos\Matriz Superior e Inferior\Matriz Superior e Inferior\bin\Debug\Matriz Superior e Inferior.exe
+C:\Users\M3iEX\source\repos\Matriz Superior e Inferior\Matriz Superior e Inferior\bin\Debug\Matriz Superior e Inferior.pdb
+C:\Users\M3iEX\source\repos\Matriz Superior e Inferior\Matriz Superior e Inferior\obj\Debug\Matriz Superior e Inferior.csproj.AssemblyReference.cache
+C:\Users\M3iEX\source\repos\Matriz Superior e Inferior\Matriz Superior e Inferior\obj\Debug\Matriz Superior e Inferior.csproj.CoreCompileInputs.cache
+C:\Users\M3iEX\source\repos\Matriz Superior e Inferior\Matriz Superior e Inferior\obj\Debug\Matriz Superior e Inferior.exe
+C:\Users\M3iEX\source\repos\Matriz Superior e Inferior\Matriz Superior e Inferior\obj\Debug\Matriz Superior e Inferior.pdb

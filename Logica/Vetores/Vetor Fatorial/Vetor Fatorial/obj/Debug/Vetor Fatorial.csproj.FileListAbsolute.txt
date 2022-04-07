@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Vetores\Vetor Fatorial\Vetor Fatorial\bin\Debug\Vetor Fatorial.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Vetores\Vetor Fatorial\Vetor Fatorial\bin\Debug\Vetor Fatorial.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Vetores\Vetor Fatorial\Vetor Fatorial\bin\Debug\Vetor Fatorial.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Vetores\Vetor Fatorial\Vetor Fatorial\obj\Debug\Vetor Fatorial.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Vetores\Vetor Fatorial\Vetor Fatorial\obj\Debug\Vetor Fatorial.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Vetores\Vetor Fatorial\Vetor Fatorial\obj\Debug\Vetor Fatorial.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Vetores\Vetor Fatorial\Vetor Fatorial\obj\Debug\Vetor Fatorial.pdb

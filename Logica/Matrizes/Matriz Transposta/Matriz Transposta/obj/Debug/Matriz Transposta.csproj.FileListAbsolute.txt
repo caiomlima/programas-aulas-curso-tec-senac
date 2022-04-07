@@ -1,0 +1,6 @@
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Transposta\Matriz Transposta\bin\Debug\Matriz Transposta.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Transposta\Matriz Transposta\bin\Debug\Matriz Transposta.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Transposta\Matriz Transposta\bin\Debug\Matriz Transposta.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Transposta\Matriz Transposta\obj\Debug\Matriz Transposta.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Transposta\Matriz Transposta\obj\Debug\Matriz Transposta.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Transposta\Matriz Transposta\obj\Debug\Matriz Transposta.pdb

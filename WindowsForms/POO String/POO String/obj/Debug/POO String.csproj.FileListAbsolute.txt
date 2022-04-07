@@ -1,0 +1,10 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\POO String\POO String\bin\Debug\POO String.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\POO String\POO String\bin\Debug\POO String.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\POO String\POO String\bin\Debug\POO String.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\POO String\POO String\obj\Debug\POO String.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\POO String\POO String\obj\Debug\POO_String.MainForm.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\POO String\POO String\obj\Debug\POO_String.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\POO String\POO String\obj\Debug\POO String.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\POO String\POO String\obj\Debug\POO String.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\POO String\POO String\obj\Debug\POO String.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\POO String\POO String\obj\Debug\POO String.pdb

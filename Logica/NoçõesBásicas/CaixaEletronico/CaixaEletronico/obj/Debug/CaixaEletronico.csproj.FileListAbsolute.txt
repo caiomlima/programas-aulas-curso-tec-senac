@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb

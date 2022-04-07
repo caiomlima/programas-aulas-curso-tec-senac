@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Primeiro Programa OOP\Primeiro Programa OOP\bin\Debug\Primeiro Programa OOP.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Primeiro Programa OOP\Primeiro Programa OOP\bin\Debug\Primeiro Programa OOP.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Primeiro Programa OOP\Primeiro Programa OOP\bin\Debug\Primeiro Programa OOP.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Primeiro Programa OOP\Primeiro Programa OOP\obj\Debug\Primeiro Programa OOP.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Primeiro Programa OOP\Primeiro Programa OOP\obj\Debug\Primeiro Programa OOP.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Primeiro Programa OOP\Primeiro Programa OOP\obj\Debug\Primeiro Programa OOP.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Primeiro Programa OOP\Primeiro Programa OOP\obj\Debug\Primeiro Programa OOP.pdb

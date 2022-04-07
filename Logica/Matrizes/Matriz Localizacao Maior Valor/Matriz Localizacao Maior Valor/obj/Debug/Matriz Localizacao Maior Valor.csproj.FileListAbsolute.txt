@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Localizacao Maior Valor\Matriz Localizacao Maior Valor\bin\Debug\Matriz Localizacao Maior Valor.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Localizacao Maior Valor\Matriz Localizacao Maior Valor\bin\Debug\Matriz Localizacao Maior Valor.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Localizacao Maior Valor\Matriz Localizacao Maior Valor\bin\Debug\Matriz Localizacao Maior Valor.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Localizacao Maior Valor\Matriz Localizacao Maior Valor\obj\Debug\Matriz Localizacao Maior Valor.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Localizacao Maior Valor\Matriz Localizacao Maior Valor\obj\Debug\Matriz Localizacao Maior Valor.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Localizacao Maior Valor\Matriz Localizacao Maior Valor\obj\Debug\Matriz Localizacao Maior Valor.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Localizacao Maior Valor\Matriz Localizacao Maior Valor\obj\Debug\Matriz Localizacao Maior Valor.pdb

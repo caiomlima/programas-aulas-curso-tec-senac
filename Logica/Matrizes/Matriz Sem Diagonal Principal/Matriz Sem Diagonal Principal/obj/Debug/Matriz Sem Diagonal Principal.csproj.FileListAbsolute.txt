@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Sem Diagonal Principal\Matriz Sem Diagonal Principal\bin\Debug\Matriz Sem Diagonal Principal.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Sem Diagonal Principal\Matriz Sem Diagonal Principal\bin\Debug\Matriz Sem Diagonal Principal.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Sem Diagonal Principal\Matriz Sem Diagonal Principal\bin\Debug\Matriz Sem Diagonal Principal.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Sem Diagonal Principal\Matriz Sem Diagonal Principal\obj\Debug\Matriz Sem Diagonal Principal.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Sem Diagonal Principal\Matriz Sem Diagonal Principal\obj\Debug\Matriz Sem Diagonal Principal.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Sem Diagonal Principal\Matriz Sem Diagonal Principal\obj\Debug\Matriz Sem Diagonal Principal.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Sem Diagonal Principal\Matriz Sem Diagonal Principal\obj\Debug\Matriz Sem Diagonal Principal.csproj.AssemblyReference.cache

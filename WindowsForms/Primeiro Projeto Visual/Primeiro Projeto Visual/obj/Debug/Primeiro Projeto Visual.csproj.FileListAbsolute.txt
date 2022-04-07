@@ -1,0 +1,10 @@
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Primeiro Projeto Visual\Primeiro Projeto Visual\bin\Debug\Primeiro Projeto Visual.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Primeiro Projeto Visual\Primeiro Projeto Visual\bin\Debug\Primeiro Projeto Visual.exe
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Primeiro Projeto Visual\Primeiro Projeto Visual\bin\Debug\Primeiro Projeto Visual.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Primeiro Projeto Visual\Primeiro Projeto Visual\obj\Debug\Primeiro Projeto Visual.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Primeiro Projeto Visual\Primeiro Projeto Visual\obj\Debug\Primeiro_Projeto_Visual.Form1.resources
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Primeiro Projeto Visual\Primeiro Projeto Visual\obj\Debug\Primeiro_Projeto_Visual.Properties.Resources.resources
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Primeiro Projeto Visual\Primeiro Projeto Visual\obj\Debug\Primeiro Projeto Visual.csproj.GenerateResource.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Primeiro Projeto Visual\Primeiro Projeto Visual\obj\Debug\Primeiro Projeto Visual.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Primeiro Projeto Visual\Primeiro Projeto Visual\obj\Debug\Primeiro Projeto Visual.exe
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Primeiro Projeto Visual\Primeiro Projeto Visual\obj\Debug\Primeiro Projeto Visual.pdb

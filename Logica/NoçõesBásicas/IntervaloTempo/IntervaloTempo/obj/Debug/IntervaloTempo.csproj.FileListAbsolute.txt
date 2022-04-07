@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IntervaloTempo\IntervaloTempo\bin\Debug\IntervaloTempo.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IntervaloTempo\IntervaloTempo\bin\Debug\IntervaloTempo.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IntervaloTempo\IntervaloTempo\bin\Debug\IntervaloTempo.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IntervaloTempo\IntervaloTempo\obj\Debug\IntervaloTempo.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IntervaloTempo\IntervaloTempo\obj\Debug\IntervaloTempo.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IntervaloTempo\IntervaloTempo\obj\Debug\IntervaloTempo.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IntervaloTempo\IntervaloTempo\obj\Debug\IntervaloTempo.pdb

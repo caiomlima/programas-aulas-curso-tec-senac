@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Primeira Matriz\Primeira Matriz\bin\Debug\Primeira Matriz.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Primeira Matriz\Primeira Matriz\bin\Debug\Primeira Matriz.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Primeira Matriz\Primeira Matriz\bin\Debug\Primeira Matriz.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Primeira Matriz\Primeira Matriz\obj\Debug\Primeira Matriz.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Primeira Matriz\Primeira Matriz\obj\Debug\Primeira Matriz.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Primeira Matriz\Primeira Matriz\obj\Debug\Primeira Matriz.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Primeira Matriz\Primeira Matriz\obj\Debug\Primeira Matriz.pdb

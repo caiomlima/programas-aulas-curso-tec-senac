@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Serie de Fibonacci\Serie de Fibonacci\bin\Debug\Serie de Fibonacci.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Serie de Fibonacci\Serie de Fibonacci\bin\Debug\Serie de Fibonacci.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Serie de Fibonacci\Serie de Fibonacci\bin\Debug\Serie de Fibonacci.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Serie de Fibonacci\Serie de Fibonacci\obj\Debug\Serie de Fibonacci.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Serie de Fibonacci\Serie de Fibonacci\obj\Debug\Serie de Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Serie de Fibonacci\Serie de Fibonacci\obj\Debug\Serie de Fibonacci.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Serie de Fibonacci\Serie de Fibonacci\obj\Debug\Serie de Fibonacci.pdb

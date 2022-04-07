@@ -1,0 +1,7 @@
+C:\Users\M3iEX\source\repos\Soma de 2 Matrizes\Soma de 2 Matrizes\bin\Debug\Soma de 2 Matrizes.exe.config
+C:\Users\M3iEX\source\repos\Soma de 2 Matrizes\Soma de 2 Matrizes\bin\Debug\Soma de 2 Matrizes.exe
+C:\Users\M3iEX\source\repos\Soma de 2 Matrizes\Soma de 2 Matrizes\bin\Debug\Soma de 2 Matrizes.pdb
+C:\Users\M3iEX\source\repos\Soma de 2 Matrizes\Soma de 2 Matrizes\obj\Debug\Soma de 2 Matrizes.csproj.AssemblyReference.cache
+C:\Users\M3iEX\source\repos\Soma de 2 Matrizes\Soma de 2 Matrizes\obj\Debug\Soma de 2 Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\M3iEX\source\repos\Soma de 2 Matrizes\Soma de 2 Matrizes\obj\Debug\Soma de 2 Matrizes.exe
+C:\Users\M3iEX\source\repos\Soma de 2 Matrizes\Soma de 2 Matrizes\obj\Debug\Soma de 2 Matrizes.pdb

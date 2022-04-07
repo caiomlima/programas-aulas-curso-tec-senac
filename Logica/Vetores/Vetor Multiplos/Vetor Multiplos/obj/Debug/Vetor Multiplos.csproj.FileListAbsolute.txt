@@ -1,0 +1,6 @@
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Multiplos\Vetor Multiplos\bin\Debug\Vetor Multiplos.exe.config
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Multiplos\Vetor Multiplos\bin\Debug\Vetor Multiplos.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Multiplos\Vetor Multiplos\bin\Debug\Vetor Multiplos.pdb
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Multiplos\Vetor Multiplos\obj\Debug\Vetor Multiplos.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Multiplos\Vetor Multiplos\obj\Debug\Vetor Multiplos.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Multiplos\Vetor Multiplos\obj\Debug\Vetor Multiplos.pdb

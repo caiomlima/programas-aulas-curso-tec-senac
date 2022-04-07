@@ -1,0 +1,6 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\NumPerfeitos\NumPerfeitos\bin\Debug\NumPerfeitos.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\NumPerfeitos\NumPerfeitos\bin\Debug\NumPerfeitos.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\NumPerfeitos\NumPerfeitos\bin\Debug\NumPerfeitos.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\NumPerfeitos\NumPerfeitos\obj\Debug\NumPerfeitos.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\NumPerfeitos\NumPerfeitos\obj\Debug\NumPerfeitos.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\NumPerfeitos\NumPerfeitos\obj\Debug\NumPerfeitos.pdb

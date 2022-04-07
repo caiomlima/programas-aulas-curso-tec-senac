@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Vetores\Vetores 8 Inteiros Primos\Vetores 8 Inteiros Primos\bin\Debug\Vetores 8 Inteiros Primos.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Vetores\Vetores 8 Inteiros Primos\Vetores 8 Inteiros Primos\bin\Debug\Vetores 8 Inteiros Primos.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Vetores\Vetores 8 Inteiros Primos\Vetores 8 Inteiros Primos\bin\Debug\Vetores 8 Inteiros Primos.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Vetores\Vetores 8 Inteiros Primos\Vetores 8 Inteiros Primos\obj\Debug\Vetores 8 Inteiros Primos.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Vetores\Vetores 8 Inteiros Primos\Vetores 8 Inteiros Primos\obj\Debug\Vetores 8 Inteiros Primos.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Vetores\Vetores 8 Inteiros Primos\Vetores 8 Inteiros Primos\obj\Debug\Vetores 8 Inteiros Primos.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Vetores\Vetores 8 Inteiros Primos\Vetores 8 Inteiros Primos\obj\Debug\Vetores 8 Inteiros Primos.pdb

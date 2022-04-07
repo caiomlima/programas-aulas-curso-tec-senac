@@ -1,0 +1,20 @@
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\bin\Debug\Calc Da Media.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\bin\Debug\Calc Da Media.exe
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\bin\Debug\Calc Da Media.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\obj\Debug\Calc Da Media.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\obj\Debug\Calc_Da_Media.FormCalcMedia.resources
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\obj\Debug\Calc_Da_Media.Properties.Resources.resources
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\obj\Debug\Calc Da Media.csproj.GenerateResource.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\obj\Debug\Calc Da Media.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\obj\Debug\Calc Da Media.exe
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\obj\Debug\Calc Da Media.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\bin\Debug\Calc Da Media.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\bin\Debug\Calc Da Media.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\bin\Debug\Calc Da Media.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\obj\Debug\Calc Da Media.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\obj\Debug\Calc_Da_Media.FormCalcMedia.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\obj\Debug\Calc_Da_Media.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\obj\Debug\Calc Da Media.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\obj\Debug\Calc Da Media.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\obj\Debug\Calc Da Media.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Calc Da Media\Calc Da Media\obj\Debug\Calc Da Media.pdb

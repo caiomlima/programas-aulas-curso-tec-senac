@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Salarios Reajuste\Vetor Salarios Reajuste\bin\Debug\Vetor Salarios Reajuste.exe.config
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Salarios Reajuste\Vetor Salarios Reajuste\bin\Debug\Vetor Salarios Reajuste.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Salarios Reajuste\Vetor Salarios Reajuste\bin\Debug\Vetor Salarios Reajuste.pdb
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Salarios Reajuste\Vetor Salarios Reajuste\obj\Debug\Vetor Salarios Reajuste.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Salarios Reajuste\Vetor Salarios Reajuste\obj\Debug\Vetor Salarios Reajuste.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Salarios Reajuste\Vetor Salarios Reajuste\obj\Debug\Vetor Salarios Reajuste.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor Salarios Reajuste\Vetor Salarios Reajuste\obj\Debug\Vetor Salarios Reajuste.pdb

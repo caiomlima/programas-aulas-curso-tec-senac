@@ -1,0 +1,10 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Lista De Nomes\Lista De Nomes\bin\Debug\Lista De Nomes.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Lista De Nomes\Lista De Nomes\bin\Debug\Lista De Nomes.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Lista De Nomes\Lista De Nomes\bin\Debug\Lista De Nomes.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Lista De Nomes\Lista De Nomes\obj\Debug\Lista De Nomes.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Lista De Nomes\Lista De Nomes\obj\Debug\Lista_De_Nomes.form_lista_nomes.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Lista De Nomes\Lista De Nomes\obj\Debug\Lista_De_Nomes.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Lista De Nomes\Lista De Nomes\obj\Debug\Lista De Nomes.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Lista De Nomes\Lista De Nomes\obj\Debug\Lista De Nomes.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Lista De Nomes\Lista De Nomes\obj\Debug\Lista De Nomes.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Lista De Nomes\Lista De Nomes\obj\Debug\Lista De Nomes.pdb

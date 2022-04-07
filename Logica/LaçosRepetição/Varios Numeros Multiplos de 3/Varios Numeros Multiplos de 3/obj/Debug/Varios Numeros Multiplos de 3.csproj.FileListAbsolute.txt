@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Varios Numeros Multiplos de 3\Varios Numeros Multiplos de 3\bin\Debug\Varios Numeros Multiplos de 3.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Varios Numeros Multiplos de 3\Varios Numeros Multiplos de 3\bin\Debug\Varios Numeros Multiplos de 3.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Varios Numeros Multiplos de 3\Varios Numeros Multiplos de 3\bin\Debug\Varios Numeros Multiplos de 3.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Varios Numeros Multiplos de 3\Varios Numeros Multiplos de 3\obj\Debug\Varios Numeros Multiplos de 3.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Varios Numeros Multiplos de 3\Varios Numeros Multiplos de 3\obj\Debug\Varios Numeros Multiplos de 3.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Varios Numeros Multiplos de 3\Varios Numeros Multiplos de 3\obj\Debug\Varios Numeros Multiplos de 3.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Varios Numeros Multiplos de 3\Varios Numeros Multiplos de 3\obj\Debug\Varios Numeros Multiplos de 3.pdb

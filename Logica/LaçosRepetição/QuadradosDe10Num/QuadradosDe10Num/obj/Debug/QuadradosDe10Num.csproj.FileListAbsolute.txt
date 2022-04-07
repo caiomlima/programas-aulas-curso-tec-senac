@@ -1,0 +1,6 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\QuadradosDe10Num\QuadradosDe10Num\bin\Debug\QuadradosDe10Num.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\QuadradosDe10Num\QuadradosDe10Num\bin\Debug\QuadradosDe10Num.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\QuadradosDe10Num\QuadradosDe10Num\bin\Debug\QuadradosDe10Num.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\QuadradosDe10Num\QuadradosDe10Num\obj\Debug\QuadradosDe10Num.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\QuadradosDe10Num\QuadradosDe10Num\obj\Debug\QuadradosDe10Num.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\QuadradosDe10Num\QuadradosDe10Num\obj\Debug\QuadradosDe10Num.pdb

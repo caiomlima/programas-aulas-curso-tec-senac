@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Numeros da Diagonal Principal\Numeros da Diagonal Principal\bin\Debug\Numeros da Diagonal Principal.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Numeros da Diagonal Principal\Numeros da Diagonal Principal\bin\Debug\Numeros da Diagonal Principal.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Numeros da Diagonal Principal\Numeros da Diagonal Principal\bin\Debug\Numeros da Diagonal Principal.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Numeros da Diagonal Principal\Numeros da Diagonal Principal\obj\Debug\Numeros da Diagonal Principal.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Numeros da Diagonal Principal\Numeros da Diagonal Principal\obj\Debug\Numeros da Diagonal Principal.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Numeros da Diagonal Principal\Numeros da Diagonal Principal\obj\Debug\Numeros da Diagonal Principal.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Numeros da Diagonal Principal\Numeros da Diagonal Principal\obj\Debug\Numeros da Diagonal Principal.pdb

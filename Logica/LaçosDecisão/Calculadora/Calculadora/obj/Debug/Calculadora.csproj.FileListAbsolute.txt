@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

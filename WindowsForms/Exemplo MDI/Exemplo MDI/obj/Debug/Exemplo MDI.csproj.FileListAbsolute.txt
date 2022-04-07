@@ -1,0 +1,10 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Exemplo MDI\Exemplo MDI\bin\Debug\Exemplo MDI.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Exemplo MDI\Exemplo MDI\bin\Debug\Exemplo MDI.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Exemplo MDI\Exemplo MDI\bin\Debug\Exemplo MDI.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Exemplo MDI\Exemplo MDI\obj\Debug\Exemplo MDI.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Exemplo MDI\Exemplo MDI\obj\Debug\Exemplo_MDI.MainForm.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Exemplo MDI\Exemplo MDI\obj\Debug\Exemplo_MDI.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Exemplo MDI\Exemplo MDI\obj\Debug\Exemplo MDI.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Exemplo MDI\Exemplo MDI\obj\Debug\Exemplo MDI.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Exemplo MDI\Exemplo MDI\obj\Debug\Exemplo MDI.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Exemplo MDI\Exemplo MDI\obj\Debug\Exemplo MDI.pdb

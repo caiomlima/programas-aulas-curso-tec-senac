@@ -1,0 +1,10 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Pi - OO\Pi - OO\bin\Debug\Pi - OO.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Pi - OO\Pi - OO\bin\Debug\Pi - OO.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Pi - OO\Pi - OO\bin\Debug\Pi - OO.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Pi - OO\Pi - OO\obj\Debug\Pi - OO.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Pi - OO\Pi - OO\obj\Debug\Pi___OO.MainForm.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Pi - OO\Pi - OO\obj\Debug\Pi___OO.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Pi - OO\Pi - OO\obj\Debug\Pi - OO.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Pi - OO\Pi - OO\obj\Debug\Pi - OO.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Pi - OO\Pi - OO\obj\Debug\Pi - OO.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Pi - OO\Pi - OO\obj\Debug\Pi - OO.pdb

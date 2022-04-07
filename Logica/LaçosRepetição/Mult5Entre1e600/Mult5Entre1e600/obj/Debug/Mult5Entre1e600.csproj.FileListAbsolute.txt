@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Mult5Entre1e600\Mult5Entre1e600\bin\Debug\Mult5Entre1e600.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Mult5Entre1e600\Mult5Entre1e600\bin\Debug\Mult5Entre1e600.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Mult5Entre1e600\Mult5Entre1e600\bin\Debug\Mult5Entre1e600.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Mult5Entre1e600\Mult5Entre1e600\obj\Debug\Mult5Entre1e600.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Mult5Entre1e600\Mult5Entre1e600\obj\Debug\Mult5Entre1e600.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Mult5Entre1e600\Mult5Entre1e600\obj\Debug\Mult5Entre1e600.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\Mult5Entre1e600\Mult5Entre1e600\obj\Debug\Mult5Entre1e600.pdb

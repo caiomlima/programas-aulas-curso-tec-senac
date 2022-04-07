@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\3LadosTriangulos\3LadosTriangulos\bin\Debug\3LadosTriangulos.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\3LadosTriangulos\3LadosTriangulos\bin\Debug\3LadosTriangulos.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\3LadosTriangulos\3LadosTriangulos\bin\Debug\3LadosTriangulos.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\3LadosTriangulos\3LadosTriangulos\obj\Debug\3LadosTriangulos.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\3LadosTriangulos\3LadosTriangulos\obj\Debug\3LadosTriangulos.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\3LadosTriangulos\3LadosTriangulos\obj\Debug\3LadosTriangulos.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\3LadosTriangulos\3LadosTriangulos\obj\Debug\3LadosTriangulos.pdb

@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Divisores\Divisores\bin\Debug\Divisores.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Divisores\Divisores\bin\Debug\Divisores.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Divisores\Divisores\bin\Debug\Divisores.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Divisores\Divisores\obj\Debug\Divisores.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Divisores\Divisores\obj\Debug\Divisores.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Divisores\Divisores\obj\Debug\Divisores.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Divisores\Divisores\obj\Debug\Divisores.pdb

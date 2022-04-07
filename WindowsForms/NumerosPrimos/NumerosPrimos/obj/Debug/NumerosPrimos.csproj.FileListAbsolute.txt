@@ -1,0 +1,10 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.Primos_Form.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.pdb

@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Funcao Soma 2 Nums\Funcao Soma 2 Nums\bin\Debug\Funcao Soma 2 Nums.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Funcao Soma 2 Nums\Funcao Soma 2 Nums\bin\Debug\Funcao Soma 2 Nums.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Funcao Soma 2 Nums\Funcao Soma 2 Nums\bin\Debug\Funcao Soma 2 Nums.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Funcao Soma 2 Nums\Funcao Soma 2 Nums\obj\Debug\Funcao Soma 2 Nums.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Funcao Soma 2 Nums\Funcao Soma 2 Nums\obj\Debug\Funcao Soma 2 Nums.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Funcao Soma 2 Nums\Funcao Soma 2 Nums\obj\Debug\Funcao Soma 2 Nums.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Funcao Soma 2 Nums\Funcao Soma 2 Nums\obj\Debug\Funcao Soma 2 Nums.pdb

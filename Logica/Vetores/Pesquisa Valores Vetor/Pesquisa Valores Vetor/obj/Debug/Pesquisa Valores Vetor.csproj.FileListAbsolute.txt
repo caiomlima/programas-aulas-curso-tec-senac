@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\AulasMauricio\Vetores\Pesquisa Valores Vetor\Pesquisa Valores Vetor\bin\Debug\Pesquisa Valores Vetor.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\AulasMauricio\Vetores\Pesquisa Valores Vetor\Pesquisa Valores Vetor\bin\Debug\Pesquisa Valores Vetor.exe
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\AulasMauricio\Vetores\Pesquisa Valores Vetor\Pesquisa Valores Vetor\bin\Debug\Pesquisa Valores Vetor.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\AulasMauricio\Vetores\Pesquisa Valores Vetor\Pesquisa Valores Vetor\obj\Debug\Pesquisa Valores Vetor.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\AulasMauricio\Vetores\Pesquisa Valores Vetor\Pesquisa Valores Vetor\obj\Debug\Pesquisa Valores Vetor.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\AulasMauricio\Vetores\Pesquisa Valores Vetor\Pesquisa Valores Vetor\obj\Debug\Pesquisa Valores Vetor.exe
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\AulasMauricio\Vetores\Pesquisa Valores Vetor\Pesquisa Valores Vetor\obj\Debug\Pesquisa Valores Vetor.pdb

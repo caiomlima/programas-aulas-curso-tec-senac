@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\source\repos\Cilindro\Cilindro\bin\Debug\Cilindro.exe.config
+C:\Users\caio.mlima5\source\repos\Cilindro\Cilindro\bin\Debug\Cilindro.exe
+C:\Users\caio.mlima5\source\repos\Cilindro\Cilindro\bin\Debug\Cilindro.pdb
+C:\Users\caio.mlima5\source\repos\Cilindro\Cilindro\obj\Debug\Cilindro.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\source\repos\Cilindro\Cilindro\obj\Debug\Cilindro.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\source\repos\Cilindro\Cilindro\obj\Debug\Cilindro.exe
+C:\Users\caio.mlima5\source\repos\Cilindro\Cilindro\obj\Debug\Cilindro.pdb

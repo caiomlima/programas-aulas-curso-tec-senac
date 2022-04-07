@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema de Menus", "Sistema de Menus\Sistema de Menus.csproj", "{653011D1-726D-4B96-BDC2-D8357E404348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc Da Media", "..\Calc Da Media\Calc Da Media\Calc Da Media.csproj", "{450AAD55-55F4-474D-8C7A-160F20765E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordenar Nomes", "..\Ordenar Nomes\Ordenar Nomes\Ordenar Nomes.csproj", "{4D861F2D-F1DE-42D0-87F1-5F4546217615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista De Nomes", "..\Lista De Nomes\Lista De Nomes\Lista De Nomes.csproj", "{4B20D30E-0051-49E5-872D-4733995D9F28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movimenta Teclas", "..\Movimenta Teclas\Movimenta Teclas\Movimenta Teclas.csproj", "{37BFD04E-293D-43BB-B59C-DFE6F65517A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visualiza Imagem", "..\Visualiza Imagem\Visualiza Imagem\Visualiza Imagem.csproj", "{299DB3DF-4564-4282-BBE2-F33C00008402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relogio", "..\Relogio\Relogio\Relogio.csproj", "{0B6ACF93-C6D8-4998-876A-7ECF360A9C79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{653011D1-726D-4B96-BDC2-D8357E404348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653011D1-726D-4B96-BDC2-D8357E404348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653011D1-726D-4B96-BDC2-D8357E404348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653011D1-726D-4B96-BDC2-D8357E404348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450AAD55-55F4-474D-8C7A-160F20765E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450AAD55-55F4-474D-8C7A-160F20765E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450AAD55-55F4-474D-8C7A-160F20765E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450AAD55-55F4-474D-8C7A-160F20765E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D861F2D-F1DE-42D0-87F1-5F4546217615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D861F2D-F1DE-42D0-87F1-5F4546217615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D861F2D-F1DE-42D0-87F1-5F4546217615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D861F2D-F1DE-42D0-87F1-5F4546217615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B20D30E-0051-49E5-872D-4733995D9F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B20D30E-0051-49E5-872D-4733995D9F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B20D30E-0051-49E5-872D-4733995D9F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B20D30E-0051-49E5-872D-4733995D9F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37BFD04E-293D-43BB-B59C-DFE6F65517A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BFD04E-293D-43BB-B59C-DFE6F65517A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BFD04E-293D-43BB-B59C-DFE6F65517A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BFD04E-293D-43BB-B59C-DFE6F65517A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299DB3DF-4564-4282-BBE2-F33C00008402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299DB3DF-4564-4282-BBE2-F33C00008402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299DB3DF-4564-4282-BBE2-F33C00008402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299DB3DF-4564-4282-BBE2-F33C00008402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6ACF93-C6D8-4998-876A-7ECF360A9C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6ACF93-C6D8-4998-876A-7ECF360A9C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6ACF93-C6D8-4998-876A-7ECF360A9C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6ACF93-C6D8-4998-876A-7ECF360A9C79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79DAAC10-8853-41BC-864C-C572B7237773}
+	EndGlobalSection
+EndGlobal

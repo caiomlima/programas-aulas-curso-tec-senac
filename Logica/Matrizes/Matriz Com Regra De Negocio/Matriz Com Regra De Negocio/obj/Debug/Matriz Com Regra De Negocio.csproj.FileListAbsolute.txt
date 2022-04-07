@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Com Regra De Negocio\Matriz Com Regra De Negocio\bin\Debug\Matriz Com Regra De Negocio.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Com Regra De Negocio\Matriz Com Regra De Negocio\bin\Debug\Matriz Com Regra De Negocio.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Com Regra De Negocio\Matriz Com Regra De Negocio\bin\Debug\Matriz Com Regra De Negocio.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Com Regra De Negocio\Matriz Com Regra De Negocio\obj\Debug\Matriz Com Regra De Negocio.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Com Regra De Negocio\Matriz Com Regra De Negocio\obj\Debug\Matriz Com Regra De Negocio.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Com Regra De Negocio\Matriz Com Regra De Negocio\obj\Debug\Matriz Com Regra De Negocio.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Matriz Com Regra De Negocio\Matriz Com Regra De Negocio\obj\Debug\Matriz Com Regra De Negocio.pdb

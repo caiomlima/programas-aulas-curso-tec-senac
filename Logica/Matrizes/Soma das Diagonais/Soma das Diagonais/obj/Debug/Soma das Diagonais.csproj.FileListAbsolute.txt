@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Soma das Diagonais\Soma das Diagonais\bin\Debug\Soma das Diagonais.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Soma das Diagonais\Soma das Diagonais\bin\Debug\Soma das Diagonais.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Soma das Diagonais\Soma das Diagonais\bin\Debug\Soma das Diagonais.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Soma das Diagonais\Soma das Diagonais\obj\Debug\Soma das Diagonais.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Soma das Diagonais\Soma das Diagonais\obj\Debug\Soma das Diagonais.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Soma das Diagonais\Soma das Diagonais\obj\Debug\Soma das Diagonais.exe
+D:\# Development\Lógica De Programação\Linguagem C#\AulasMauricio\Matrizes\Soma das Diagonais\Soma das Diagonais\obj\Debug\Soma das Diagonais.pdb

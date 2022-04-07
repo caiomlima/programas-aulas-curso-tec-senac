@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\POO\ConsoleHeranca\ConsoleHeranca\obj\Debug\ConsoleHeranca.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\POO\ConsoleHeranca\ConsoleHeranca\obj\Debug\ConsoleHeranca.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\POO\ConsoleHeranca\ConsoleHeranca\bin\Debug\ConsoleHeranca.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\POO\ConsoleHeranca\ConsoleHeranca\bin\Debug\ConsoleHeranca.exe
+D:\# Development\Lógica De Programação\Linguagem C#\POO\ConsoleHeranca\ConsoleHeranca\bin\Debug\ConsoleHeranca.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\POO\ConsoleHeranca\ConsoleHeranca\obj\Debug\ConsoleHeranca.exe
+D:\# Development\Lógica De Programação\Linguagem C#\POO\ConsoleHeranca\ConsoleHeranca\obj\Debug\ConsoleHeranca.pdb

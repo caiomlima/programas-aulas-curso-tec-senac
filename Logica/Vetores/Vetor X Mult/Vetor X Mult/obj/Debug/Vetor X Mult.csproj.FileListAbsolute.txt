@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor X Mult\Vetor X Mult\bin\Debug\Vetor X Mult.exe.config
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor X Mult\Vetor X Mult\bin\Debug\Vetor X Mult.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor X Mult\Vetor X Mult\bin\Debug\Vetor X Mult.pdb
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor X Mult\Vetor X Mult\obj\Debug\Vetor X Mult.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor X Mult\Vetor X Mult\obj\Debug\Vetor X Mult.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor X Mult\Vetor X Mult\obj\Debug\Vetor X Mult.exe
+C:\Users\caio.mlima5\Desktop\logica-m\logica-main\C#\AulasMauricio\Vetores\Vetor X Mult\Vetor X Mult\obj\Debug\Vetor X Mult.pdb

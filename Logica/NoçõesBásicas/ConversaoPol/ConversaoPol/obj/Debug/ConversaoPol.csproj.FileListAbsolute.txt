@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\ConversaoPol\ConversaoPol\bin\Debug\ConversaoPol.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\ConversaoPol\ConversaoPol\bin\Debug\ConversaoPol.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\ConversaoPol\ConversaoPol\bin\Debug\ConversaoPol.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\ConversaoPol\ConversaoPol\obj\Debug\ConversaoPol.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\ConversaoPol\ConversaoPol\obj\Debug\ConversaoPol.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\ConversaoPol\ConversaoPol\obj\Debug\ConversaoPol.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\ConversaoPol\ConversaoPol\obj\Debug\ConversaoPol.pdb

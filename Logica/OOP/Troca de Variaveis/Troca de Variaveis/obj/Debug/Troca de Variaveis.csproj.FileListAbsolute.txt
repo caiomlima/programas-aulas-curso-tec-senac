@@ -1,0 +1,7 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Troca de Variaveis\Troca de Variaveis\bin\Debug\Troca de Variaveis.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Troca de Variaveis\Troca de Variaveis\bin\Debug\Troca de Variaveis.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Troca de Variaveis\Troca de Variaveis\bin\Debug\Troca de Variaveis.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Troca de Variaveis\Troca de Variaveis\obj\Debug\Troca de Variaveis.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Troca de Variaveis\Troca de Variaveis\obj\Debug\Troca de Variaveis.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Troca de Variaveis\Troca de Variaveis\obj\Debug\Troca de Variaveis.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Exercícios Lógica\AulasMauricio\OOP\Troca de Variaveis\Troca de Variaveis\obj\Debug\Troca de Variaveis.pdb

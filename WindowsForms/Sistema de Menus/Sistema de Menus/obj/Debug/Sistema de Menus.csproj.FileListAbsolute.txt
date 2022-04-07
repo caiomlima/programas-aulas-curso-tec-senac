@@ -1,0 +1,29 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Sistema de Menus.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Sistema de Menus.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Sistema de Menus.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\obj\Debug\Sistema de Menus.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\obj\Debug\Sistema_de_Menus.MainForm.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\obj\Debug\Sistema_de_Menus.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\obj\Debug\Sistema de Menus.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\obj\Debug\Sistema de Menus.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\obj\Debug\Sistema de Menus.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\obj\Debug\Sistema de Menus.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Calc Da Media.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Lista De Nomes.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Movimenta Teclas.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Ordenar Nomes.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Relogio.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Visualiza Imagem.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Calc Da Media.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Calc Da Media.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Lista De Nomes.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Lista De Nomes.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Movimenta Teclas.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Movimenta Teclas.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Ordenar Nomes.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Ordenar Nomes.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Relogio.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Relogio.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Visualiza Imagem.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\bin\Debug\Visualiza Imagem.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Sistema de Menus\Sistema de Menus\obj\Debug\Sistema de Menus.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Div3e7\Div3e7\bin\Debug\Div3e7.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Div3e7\Div3e7\bin\Debug\Div3e7.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Div3e7\Div3e7\bin\Debug\Div3e7.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Div3e7\Div3e7\obj\Debug\Div3e7.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Div3e7\Div3e7\obj\Debug\Div3e7.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Div3e7\Div3e7\obj\Debug\Div3e7.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Div3e7\Div3e7\obj\Debug\Div3e7.pdb

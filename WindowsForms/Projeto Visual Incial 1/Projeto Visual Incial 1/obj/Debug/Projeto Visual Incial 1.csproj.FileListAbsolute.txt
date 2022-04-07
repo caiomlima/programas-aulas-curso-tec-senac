@@ -1,0 +1,10 @@
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Projeto Visual Incial 1\Projeto Visual Incial 1\bin\Debug\Projeto Visual Incial 1.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Projeto Visual Incial 1\Projeto Visual Incial 1\bin\Debug\Projeto Visual Incial 1.exe
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Projeto Visual Incial 1\Projeto Visual Incial 1\bin\Debug\Projeto Visual Incial 1.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Projeto Visual Incial 1\Projeto Visual Incial 1\obj\Debug\Projeto Visual Incial 1.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Projeto Visual Incial 1\Projeto Visual Incial 1\obj\Debug\Projeto_Visual_Incial_1.Form_saudacao.resources
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Projeto Visual Incial 1\Projeto Visual Incial 1\obj\Debug\Projeto_Visual_Incial_1.Properties.Resources.resources
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Projeto Visual Incial 1\Projeto Visual Incial 1\obj\Debug\Projeto Visual Incial 1.csproj.GenerateResource.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Projeto Visual Incial 1\Projeto Visual Incial 1\obj\Debug\Projeto Visual Incial 1.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Projeto Visual Incial 1\Projeto Visual Incial 1\obj\Debug\Projeto Visual Incial 1.exe
+C:\Users\caio.mlima5\Desktop\logica-main\Linguagem C#\Windows Forms\Projeto Visual Incial 1\Projeto Visual Incial 1\obj\Debug\Projeto Visual Incial 1.pdb

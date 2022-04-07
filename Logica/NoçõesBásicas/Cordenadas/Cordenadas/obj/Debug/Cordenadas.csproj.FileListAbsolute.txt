@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Cordenadas\Cordenadas\bin\Debug\Cordenadas.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Cordenadas\Cordenadas\bin\Debug\Cordenadas.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Cordenadas\Cordenadas\bin\Debug\Cordenadas.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Cordenadas\Cordenadas\obj\Debug\Cordenadas.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Cordenadas\Cordenadas\obj\Debug\Cordenadas.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Cordenadas\Cordenadas\obj\Debug\Cordenadas.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\Cordenadas\Cordenadas\obj\Debug\Cordenadas.csproj.AssemblyReference.cache

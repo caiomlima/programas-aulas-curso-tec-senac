@@ -1,0 +1,11 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Web Browser\Web Browser\obj\Debug\Web_Browser.FormInitialPage.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Web Browser\Web Browser\obj\Debug\Web_Browser.MainForm.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Web Browser\Web Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Web Browser\Web Browser\obj\Debug\Web Browser.pdb

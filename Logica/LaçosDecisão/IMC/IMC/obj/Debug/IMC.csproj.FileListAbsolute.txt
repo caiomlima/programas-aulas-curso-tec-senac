@@ -1,0 +1,7 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IMC\IMC\obj\Debug\IMC.pdb

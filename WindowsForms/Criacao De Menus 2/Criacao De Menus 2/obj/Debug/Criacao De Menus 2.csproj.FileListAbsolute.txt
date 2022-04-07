@@ -1,0 +1,13 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Criacao De Menus 2\Criacao De Menus 2\bin\Debug\Criacao De Menus 2.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Criacao De Menus 2\Criacao De Menus 2\bin\Debug\Criacao De Menus 2.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Criacao De Menus 2\Criacao De Menus 2\bin\Debug\Criacao De Menus 2.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Criacao De Menus 2\Criacao De Menus 2\obj\Debug\Criacao De Menus 2.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Criacao De Menus 2\Criacao De Menus 2\obj\Debug\Criacao_De_Menus_2.Form1.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Criacao De Menus 2\Criacao De Menus 2\obj\Debug\Criacao_De_Menus_2.Forms.FormOpcao1.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Criacao De Menus 2\Criacao De Menus 2\obj\Debug\Criacao_De_Menus_2.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Criacao De Menus 2\Criacao De Menus 2\obj\Debug\Criacao De Menus 2.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Criacao De Menus 2\Criacao De Menus 2\obj\Debug\Criacao De Menus 2.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Criacao De Menus 2\Criacao De Menus 2\obj\Debug\Criacao De Menus 2.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Criacao De Menus 2\Criacao De Menus 2\obj\Debug\Criacao De Menus 2.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Criacao De Menus 2\Criacao De Menus 2\obj\Debug\Criacao_De_Menus_2.Forms.FormOpcao2.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\Criacao De Menus 2\Criacao De Menus 2\obj\Debug\Criacao_De_Menus_2.Acesso.resources

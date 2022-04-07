@@ -1,0 +1,10 @@
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\SnakeADS\SnakeADS\obj\Debug\SnakeADS.csproj.AssemblyReference.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\SnakeADS\SnakeADS\obj\Debug\SnakeADS.Form1.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\SnakeADS\SnakeADS\obj\Debug\SnakeADS.Properties.Resources.resources
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\SnakeADS\SnakeADS\obj\Debug\SnakeADS.csproj.GenerateResource.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\SnakeADS\SnakeADS\obj\Debug\SnakeADS.csproj.CoreCompileInputs.cache
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\SnakeADS\SnakeADS\bin\Debug\SnakeADS.exe.config
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\SnakeADS\SnakeADS\bin\Debug\SnakeADS.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\SnakeADS\SnakeADS\bin\Debug\SnakeADS.pdb
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\SnakeADS\SnakeADS\obj\Debug\SnakeADS.exe
+D:\# Development\Lógica De Programação\Linguagem C#\Windows Forms\SnakeADS\SnakeADS\obj\Debug\SnakeADS.pdb

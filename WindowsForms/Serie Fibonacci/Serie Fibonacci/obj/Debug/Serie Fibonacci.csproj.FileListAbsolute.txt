@@ -1,0 +1,10 @@
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Fibonacci\Serie Fibonacci\bin\Debug\Serie Fibonacci.exe.config
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Fibonacci\Serie Fibonacci\bin\Debug\Serie Fibonacci.exe
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Fibonacci\Serie Fibonacci\bin\Debug\Serie Fibonacci.pdb
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Fibonacci\Serie Fibonacci\obj\Debug\Serie Fibonacci.csproj.AssemblyReference.cache
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Fibonacci\Serie Fibonacci\obj\Debug\Serie_Fibonacci.Form.resources
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Fibonacci\Serie Fibonacci\obj\Debug\Serie_Fibonacci.Properties.Resources.resources
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Fibonacci\Serie Fibonacci\obj\Debug\Serie Fibonacci.csproj.GenerateResource.cache
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Fibonacci\Serie Fibonacci\obj\Debug\Serie Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Fibonacci\Serie Fibonacci\obj\Debug\Serie Fibonacci.exe
+C:\Users\caio.mlima5\Desktop\Logica\WindowsForms\Serie Fibonacci\Serie Fibonacci\obj\Debug\Serie Fibonacci.pdb

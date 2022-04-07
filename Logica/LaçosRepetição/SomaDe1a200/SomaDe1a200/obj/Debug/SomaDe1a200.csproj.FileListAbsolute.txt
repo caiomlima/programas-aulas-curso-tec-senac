@@ -1,0 +1,6 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\SomaDe1a200\SomaDe1a200\bin\Debug\SomaDe1a200.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\SomaDe1a200\SomaDe1a200\bin\Debug\SomaDe1a200.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\SomaDe1a200\SomaDe1a200\bin\Debug\SomaDe1a200.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\SomaDe1a200\SomaDe1a200\obj\Debug\SomaDe1a200.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\SomaDe1a200\SomaDe1a200\obj\Debug\SomaDe1a200.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\LaçosRepetição\SomaDe1a200\SomaDe1a200\obj\Debug\SomaDe1a200.pdb

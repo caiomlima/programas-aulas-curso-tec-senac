@@ -1,0 +1,6 @@
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IntervaloDias\IntervaloDias\bin\Debug\IntervaloDias.exe.config
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IntervaloDias\IntervaloDias\bin\Debug\IntervaloDias.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IntervaloDias\IntervaloDias\bin\Debug\IntervaloDias.pdb
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IntervaloDias\IntervaloDias\obj\Debug\IntervaloDias.csproj.CoreCompileInputs.cache
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IntervaloDias\IntervaloDias\obj\Debug\IntervaloDias.exe
+C:\Users\caio.mlima5\Desktop\logica-main\C#\AulasMauricio\IntervaloDias\IntervaloDias\obj\Debug\IntervaloDias.pdb
