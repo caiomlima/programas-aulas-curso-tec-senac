@@ -1,0 +1,24 @@
+﻿@* @{
+    var endereco = ViewData["Endereco"] as Endereco;
+}
+
+<h1 class="text-center">  @ViewData["Saudacao"] @endereco.Nome </h1>
+<h2 class="text-center"> @ViewData["DataInicio"] </h2>
+
+<hr>
+
+@endereco.Nome <br>
+@endereco.Rua <br>
+@endereco.Cidade, @endereco.Estado *@
+
+
+
+
+<h1 class="text-center">  @ViewBag.Saudacao @ViewBag.Endereco.Nome </h1>
+<h2 class="text-center"> @ViewBag.DataInicio </h2>
+
+<hr>
+
+@ViewBag.Endereco.Nome <br>
+@ViewBag.Endereco.Rua <br>
+@ViewBag.Endereco.Cidade, @ViewBag.Endereco.Estado
