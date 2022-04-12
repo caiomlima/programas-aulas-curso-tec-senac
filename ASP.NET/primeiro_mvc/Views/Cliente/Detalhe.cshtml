@@ -1,0 +1,26 @@
+﻿@model primeiro_mvc.ViewModels.ClientePedidoViewModel
+
+@{
+    ViewData["Title"] = "Detalhe";
+}
+
+<h1 class="text-center">Detalhes do Cliente</h1>
+
+<hr>
+
+<h4 class="text-center">Id do Cliente: @Model.Cliente.ClienteId</h4>
+<h4 class="text-center">Nome do Cliente: @Model.Cliente.Nome</h4>
+<h4 class="text-center">Email do Cliente: @Model.Cliente.Email</h4>
+
+<hr>
+
+<h1 class="text-center">Pedidos</h1>
+
+@if(Model.Pedido.Count == 0) {
+    <h2 class="text-center">Nenhum Pedido para Clientes</h2>
+} else {
+    @foreach (var item in Model.Pedido) {
+        <h4 class="text-center">@item.Nome</h4>
+    }
+}
+
