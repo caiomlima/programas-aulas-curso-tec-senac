@@ -1,7 +1,65 @@
-﻿
+﻿@* @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers *@
+
 @{
     ViewData["Title"] = "Index";
 }
 
+@{
+    var listaPaises = new List<SelectListItem>() {
+        new SelectListItem(){Value = "1", Text = "Brasil"},
+        new SelectListItem(){Value = "1", Text = "Alemanha"},
+        new SelectListItem(){Value = "1", Text = "Canadá"},
+    };
+}
+
+
+
 <h1>Página Inicial dos Clientes</h1>
 
+@Html.Partial("_MenuView")
+
+<hr>
+
+@using (Html.BeginForm("Index", "Cliente", FormMethod.Post)) {
+
+    @Html.Label("Id")
+    @Html.TextBox("Id")
+    <br />
+
+    @Html.Label("Nome")
+    @Html.TextBox("Nome")
+    <br />
+
+    @Html.Label("Email")
+    @Html.TextBox("Email")
+    <br />
+
+    @Html.Label("Senha")
+    @Html.Password("Senha")
+    <br />
+
+    @Html.Label("Masculino")
+    @Html.RadioButton("Sexo", "Masculino")
+    @Html.Label("Feminino")
+    @Html.RadioButton("Sexo", "Feminino")
+    <br />
+
+    @Html.Label("Lembrar")
+    @Html.CheckBox("Lembrar")
+    <br />
+
+    @Html.Label("Países")
+    @Html.DropDownList("Países", listaPaises)
+    <br />
+
+    <button type="submit">Salvar</button>
+}
+
+@if(ViewBag.Erro != null) {
+    <h2>@ViewBag.Erro</h2>
+}
+
+
+@{
+    Html.RenderPartial("_RodapeView");
+}

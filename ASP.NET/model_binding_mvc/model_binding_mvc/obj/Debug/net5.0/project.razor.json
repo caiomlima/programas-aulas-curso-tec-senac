@@ -15624,8 +15624,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\model_binding_mvc\\model_binding_mvc\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\model_binding_mvc\\model_binding_mvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\model_binding_mvc\\model_binding_mvc\\Views\\Shared\\_RodapeView.cshtml",
+      "TargetPath": "Views\\Shared\\_RodapeView.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\model_binding_mvc\\model_binding_mvc\\Views\\Cliente\\Detalhe.cshtml",
+      "TargetPath": "Views\\Cliente\\Detalhe.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15639,8 +15654,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\model_binding_mvc\\model_binding_mvc\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\model_binding_mvc\\model_binding_mvc\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\model_binding_mvc\\model_binding_mvc\\Views\\Shared\\_MenuView.cshtml",
+      "TargetPath": "Views\\Shared\\_MenuView.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\model_binding_mvc\\model_binding_mvc\\Views\\Cliente\\_AlertaView.cshtml",
+      "TargetPath": "Views\\Cliente\\_AlertaView.cshtml",
       "FileKind": "mvc"
     },
     {

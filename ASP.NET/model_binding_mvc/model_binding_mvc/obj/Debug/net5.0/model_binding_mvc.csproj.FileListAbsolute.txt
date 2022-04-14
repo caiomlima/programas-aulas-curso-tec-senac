@@ -399,3 +399,10 @@ C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\model_binding_mvc\model_binding
 C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\model_binding_mvc\model_binding_mvc\obj\Debug\net5.0\ref\model_binding_mvc.dll
 C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\model_binding_mvc\model_binding_mvc\obj\Debug\net5.0\model_binding_mvc.pdb
 C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\model_binding_mvc\model_binding_mvc\obj\Debug\net5.0\model_binding_mvc.genruntimeconfig.cache
+C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\model_binding_mvc\model_binding_mvc\obj\Debug\net5.0\Razor\Views\Cliente\Index.cshtml.g.cs
+C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\model_binding_mvc\model_binding_mvc\obj\Debug\net5.0\Razor\Views\Cliente\Detalhe.cshtml.g.cs
+C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\model_binding_mvc\model_binding_mvc\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\model_binding_mvc\model_binding_mvc\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\model_binding_mvc\model_binding_mvc\obj\Debug\net5.0\Razor\Views\Shared\_MenuView.cshtml.g.cs
+C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\model_binding_mvc\model_binding_mvc\obj\Debug\net5.0\Razor\Views\Shared\_RodapeView.cshtml.g.cs
+C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\model_binding_mvc\model_binding_mvc\obj\Debug\net5.0\Razor\Views\Cliente\_AlertaView.cshtml.g.cs

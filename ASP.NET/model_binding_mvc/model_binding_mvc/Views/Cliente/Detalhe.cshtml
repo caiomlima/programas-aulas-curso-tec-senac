@@ -1,0 +1,29 @@
+﻿@model model_binding_mvc.Models.Cliente
+
+@{
+    ViewData["Title"] = "Detalhe do Cliente";
+}
+
+<h1>Detalhe do Cliente @Model.Nome</h1>
+
+<hr>
+
+@Html.LabelFor(model => model.Id)
+@Html.TextBoxFor(model => model.Id)
+<br>
+
+@Html.LabelFor(model => model.Nome)
+@Html.TextBoxFor(model => model.Nome)
+<br>
+
+@Html.LabelFor(model => model.Email)
+@Html.TextBoxFor(model => model.Email)
+<br>
+
+@Html.ActionLink("Retornar", "Index", "Cliente")
+
+
+
+@{
+    Html.RenderPartial("_RodapeView");
+}
