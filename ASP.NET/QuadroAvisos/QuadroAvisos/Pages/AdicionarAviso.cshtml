@@ -1,0 +1,26 @@
+﻿@page
+@model QuadroAvisos.Pages.AdicionarAvisoModel
+@{
+    ViewData["Title"] = "Adicionar Aviso";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="row">
+    <div class="col-md-10">
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="Item.Nome"></label>
+                <input asp-for="Item.Nome" class="form-control">
+                @Html.ValidationMessageFor(m => m.Item.Nome)
+            </div>
+            <div class="form-group">
+                <label asp-for="Item.Mensagem"></label>
+                <textarea asp-for="Item.Nome" class="form-control"></textarea>
+                @Html.ValidationMessageFor(m => m.Item.Mensagem)
+            </div>
+            <input type="hidden" asp-for="Item.Hora">
+            <button type="submit" class="btn-default">Tá Avisado</button>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,44 @@
+﻿@page
+@model QuadroAvisos.Pages.AdicionarModel
+
+@{
+    ViewData["Title"] = "Adicionar";
+}
+
+<h1>Adicionar</h1>
+
+<h4>Aviso</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Aviso.Nome" class="control-label"></label>
+                <input asp-for="Aviso.Nome" class="form-control" />
+                <span asp-validation-for="Aviso.Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Aviso.Mensagem" class="control-label"></label>
+                <input asp-for="Aviso.Mensagem" class="form-control" />
+                <span asp-validation-for="Aviso.Mensagem" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Aviso.Hora" class="control-label"></label>
+                <input asp-for="Aviso.Hora" class="form-control" />
+                <span asp-validation-for="Aviso.Hora" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

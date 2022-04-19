@@ -1,0 +1,36 @@
+﻿@* @page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div> *@
+
+@page
+@inject QuadroAvisos.Data.AvisoContext dataContext
+@{
+    ViewData["Title"] = "Quadro de Avisos";
+    var avisos = dataContext.Avisos.OrderByDescending(s => s.Hora).Take(100).ToList();
+}
+
+<h2 class="text-center">@ViewData["Title"]</h2>
+
+<div class="row">
+    <div class="col-md-10">
+        @if(avisos.Any()) {
+            foreach (var item in avisos) {
+                <p>
+                    <strong>@item.Nome</strong> | @item.Hora.ToString(); <br>
+                    @Html.Raw(item.Mensagem.Replace("\r\n", "<br>"))
+                </p>
+            }
+        } else {
+            <p>Nenhum Aviso Publicado! Seja o Primeiro ...</p>
+        }
+    </div>
+</div>
+
+<a href="Adicionar">Adicionar Aviso</a>

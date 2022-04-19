@@ -19,6 +19,11 @@ namespace ViewComponentDemo.Controllers {
             return View();
         }
 
+        public IActionResult IndexVC() {
+            ViewData["Titulo"] = "Frutas";
+            return ViewComponent("Lista", new { sequencia = "Morango, Melancia, Pera, Maçã, Laranja"});
+        }
+
         public IActionResult Privacy() {
             return View();
         }
