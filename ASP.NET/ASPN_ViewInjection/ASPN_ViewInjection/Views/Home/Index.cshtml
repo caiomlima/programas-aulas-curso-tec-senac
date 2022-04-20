@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@inject ASPN_ViewInjection.Services.EstadosService estados
+@inject ASPN_ViewInjection.Services.TimesService times
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div> *@
+
+<h1 class="text-center">Lista de Times</h1>
+
+<hr>
+
+<ul>
+    @foreach (var item in times.GetTimes()) {
+        <li>@item</li>
+    }
+</ul>
+
+<br><br>
+
+Estado: @Html.DropDownList("Estado", estados.GetEstados().Select(x => new SelectListItem() {Text = x.Nome, Value = x.Sigla}))

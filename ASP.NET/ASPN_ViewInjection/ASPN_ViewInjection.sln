@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPN_ViewInjection", "ASPN_ViewInjection\ASPN_ViewInjection.csproj", "{AD0D03CA-AF45-4546-925C-7B4A45B2F5FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0D03CA-AF45-4546-925C-7B4A45B2F5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0D03CA-AF45-4546-925C-7B4A45B2F5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0D03CA-AF45-4546-925C-7B4A45B2F5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0D03CA-AF45-4546-925C-7B4A45B2F5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4992EF95-3B41-474B-9CDD-A733D438C6DF}
+	EndGlobalSection
+EndGlobal
