@@ -10,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace Mvc_BO.Models {
     public class AlunoBLL : IAlunoBLL {
+
         public List<Aluno> GetAlunos() {
             var configuration = ConfigurationHelper.GetConfiguration(Directory.GetCurrentDirectory());
             var conexaoString = configuration.GetConnectionString("DefaultConnection");
@@ -75,7 +76,47 @@ namespace Mvc_BO.Models {
             }
         }
 
+        public void AtualizarAlunos(Aluno aluno) {
+            var configuration = ConfigurationHelper.GetConfiguration(Directory.GetCurrentDirectory());
+            var conexaoString = configuration.GetConnectionString("DefaultConnection");
 
+            try {
+                using (SqlConnection con = new SqlConnection(conexaoString)) {
+                    SqlCommand cmd = new SqlCommand("AtualizarAluno", con);
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    SqlParameter paramId = new SqlParameter();
+                    paramId.ParameterName = "@Id";
+                    paramId.Value = aluno.Id;
+                    cmd.Parameters.Add(paramId);
+
+                    SqlParameter paramNome = new SqlParameter();
+                    paramNome.ParameterName = "@Nome";
+                    paramNome.Value = aluno.Nome;
+                    cmd.Parameters.Add(paramNome);
+
+                    SqlParameter paramEmail = new SqlParameter();
+                    paramEmail.ParameterName = "@Email";
+                    paramEmail.Value = aluno.Email;
+                    cmd.Parameters.Add(paramEmail);
+
+                    SqlParameter paramSexo = new SqlParameter();
+                    paramSexo.ParameterName = "@Sexo";
+                    paramSexo.Value = aluno.Sexo;
+                    cmd.Parameters.Add(paramSexo);
+
+                    SqlParameter paramDataInscricao = new SqlParameter();
+                    paramDataInscricao.ParameterName = "@Nascimento";
+                    paramDataInscricao.Value = aluno.Nascimento;
+                    cmd.Parameters.Add(paramDataInscricao);
+
+                    con.Open();
+                    cmd.ExecuteNonQuery();
+                }
+            } catch {
+                throw;
+            }
+        }
 
     }
 }

@@ -409,3 +409,4 @@ C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# Database e Entity\Mvc_BO\Mvc_
 C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# Database e Entity\Mvc_BO\Mvc_BO\obj\Debug\net5.0\Mvc_BO.genruntimeconfig.cache
 C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# Database e Entity\Mvc_BO\Mvc_BO\obj\Debug\net5.0\Razor\Views\Home\Lista.cshtml.g.cs
 C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# Database e Entity\Mvc_BO\Mvc_BO\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# Database e Entity\Mvc_BO\Mvc_BO\obj\Debug\net5.0\Razor\Views\Home\Edit.cshtml.g.cs

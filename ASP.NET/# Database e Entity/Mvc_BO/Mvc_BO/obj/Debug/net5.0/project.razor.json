@@ -15654,6 +15654,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\Mvc_BO\\Mvc_BO\\Views\\Home\\Edit.cshtml",
+      "TargetPath": "Views\\Home\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\Mvc_BO\\Mvc_BO\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"

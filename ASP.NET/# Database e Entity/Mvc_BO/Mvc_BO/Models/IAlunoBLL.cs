@@ -10,5 +10,7 @@ namespace Mvc_BO.Models {
 
         void IncluirAlunos(Aluno aluno);
 
+        void AtualizarAlunos(Aluno aluno);
+
     }
 }

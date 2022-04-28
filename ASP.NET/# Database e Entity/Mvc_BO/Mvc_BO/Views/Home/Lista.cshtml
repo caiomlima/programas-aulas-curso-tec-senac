@@ -46,10 +46,11 @@
                 @Html.DisplayFor(modelItem => item.Email)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Nascimento)
+                @* @Html.DisplayFor(modelItem => item.Nascimento) *@
+                @Html.Label(@item.Nascimento.ToString("dd/MM/yyyy"))
             </td>
             <td>
-                @Html.ActionLink("Editar", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Editar", "Edit", new { id = item.Id }) |
                 @Html.ActionLink("Detalhes", "Details", new { /* id=item.PrimaryKey */ }) |
                 @Html.ActionLink("Apagar", "Delete", new { /* id=item.PrimaryKey */ })
             </td>
