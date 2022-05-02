@@ -12,5 +12,7 @@ namespace Mvc_BO.Models {
 
         void AtualizarAlunos(Aluno aluno);
 
+        void DeletarAlunos(int id);
+
     }
 }

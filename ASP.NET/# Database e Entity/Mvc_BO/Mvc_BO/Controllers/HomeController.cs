@@ -29,6 +29,13 @@ namespace Mvc_BO.Controllers {
         }
 
 
+        /*---------------------------------------- Details ---------------------------------------- */
+        public IActionResult Details(int id) {
+            Aluno aluno = _alunoBLL.GetAlunos().Single(x => x.Id == id);
+            return View(aluno);
+        }
+
+
         /*---------------------------------------- Create ---------------------------------------- */
         [HttpGet]
         public IActionResult Create() {
@@ -54,9 +61,9 @@ namespace Mvc_BO.Controllers {
             return View(_aluno);
         }
         [HttpPost]
-        public IActionResult Edit([Bind(nameof(Aluno.Id), nameof(Aluno.Sexo), nameof(Aluno.Email), nameof(Aluno.Nascimento))]Aluno aluno) {
+        public IActionResult Edit([Bind(nameof(Aluno.Id), nameof(Aluno.Nome), nameof(Aluno.Sexo), nameof(Aluno.Email), nameof(Aluno.Nascimento))]Aluno aluno) {
 
-            aluno.Nome = _alunoBLL.GetAlunos().Single(x => x.Id == aluno.Id).Nome;
+            //aluno.Nome = _alunoBLL.GetAlunos().Single(x => x.Id == aluno.Id).Nome;
 
             if(ModelState.IsValid) {
                 //AlunoBLL _alunoBLL = new AlunoBLL();
@@ -64,6 +71,31 @@ namespace Mvc_BO.Controllers {
                 return RedirectToAction("Index");
             }
             return View(aluno);
+        }
+
+
+        /*---------------------------------------- Delete ---------------------------------------- */
+        //[HttpGet]
+        //public IActionResult Delete(int id) {
+        //    Aluno _aluno = _alunoBLL.GetAlunos().Single(x => x.Id == id);
+        //    return View(_aluno);
+        //}
+        [HttpPost] // JavaScript
+        public IActionResult Delete(int id) {
+            _alunoBLL.DeletarAlunos(id);
+            return RedirectToAction("Index");
+        }
+
+
+        /*---------------------------------------- Procurar ---------------------------------------- */
+        public IActionResult Procurar(string procurarPor, string criterio) {
+            if(procurarPor == "Email") {
+                Aluno aluno = _alunoBLL.GetAlunos().SingleOrDefault(x => x.Email == criterio);
+                return View(aluno);
+            } else {
+                Aluno aluno = _alunoBLL.GetAlunos().SingleOrDefault(x => x.Nome == criterio);
+                return View(aluno);
+            }
         }
 
 

@@ -15619,6 +15619,11 @@
   "RootNamespace": "Mvc_BO",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\Mvc_BO\\Mvc_BO\\Views\\Home\\Procurar.cshtml",
+      "TargetPath": "Views\\Home\\Procurar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\Mvc_BO\\Mvc_BO\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -15649,6 +15654,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\Mvc_BO\\Mvc_BO\\Views\\Home\\Delete.cshtml",
+      "TargetPath": "Views\\Home\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\Mvc_BO\\Mvc_BO\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -15656,6 +15666,11 @@
     {
       "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\Mvc_BO\\Mvc_BO\\Views\\Home\\Edit.cshtml",
       "TargetPath": "Views\\Home\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\Mvc_BO\\Mvc_BO\\Views\\Home\\Details.cshtml",
+      "TargetPath": "Views\\Home\\Details.cshtml",
       "FileKind": "mvc"
     },
     {

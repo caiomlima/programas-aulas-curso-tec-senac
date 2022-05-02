@@ -30,6 +30,8 @@ namespace Mvc_BO.Models {
                         aluno.Sexo = rdr["Sexo"].ToString();
                         aluno.Email = rdr["Email"].ToString();
                         aluno.Nascimento = Convert.ToDateTime(rdr["Nascimento"]);
+                        aluno.Email = rdr["Foto"].ToString();
+                        aluno.Email = rdr["Texto"].ToString();
                         alunos.Add(aluno);
                     }
                 }
@@ -67,6 +69,16 @@ namespace Mvc_BO.Models {
                     paramNascimento.ParameterName = "@Nascimento";
                     paramNascimento.Value = aluno.Nascimento;
                     cmd.Parameters.Add(paramNascimento);
+
+                    SqlParameter paramFoto = new SqlParameter();
+                    paramFoto.ParameterName = "@Foto";
+                    paramFoto.Value = aluno.Foto;
+                    cmd.Parameters.Add(paramFoto);
+
+                    SqlParameter paramTexto = new SqlParameter();
+                    paramTexto.ParameterName = "@Texto";
+                    paramTexto.Value = aluno.Texto;
+                    cmd.Parameters.Add(paramTexto);
 
                     con.Open();
                     cmd.ExecuteNonQuery();
@@ -110,6 +122,16 @@ namespace Mvc_BO.Models {
                     paramDataInscricao.Value = aluno.Nascimento;
                     cmd.Parameters.Add(paramDataInscricao);
 
+                    SqlParameter paramFoto = new SqlParameter();
+                    paramFoto.ParameterName = "@Foto";
+                    paramFoto.Value = aluno.Foto;
+                    cmd.Parameters.Add(paramFoto);
+
+                    SqlParameter paramTexto = new SqlParameter();
+                    paramTexto.ParameterName = "@Texto";
+                    paramTexto.Value = aluno.Texto;
+                    cmd.Parameters.Add(paramTexto);
+
                     con.Open();
                     cmd.ExecuteNonQuery();
                 }
@@ -118,5 +140,25 @@ namespace Mvc_BO.Models {
             }
         }
 
+        public void DeletarAlunos(int id) {
+            var configuration = ConfigurationHelper.GetConfiguration(Directory.GetCurrentDirectory());
+            var conexaoString = configuration.GetConnectionString("DefaultConnection");
+            try {
+                using (SqlConnection con = new SqlConnection(conexaoString)) {
+                    SqlCommand cmd = new SqlCommand("DeletarAluno", con);
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    SqlParameter paramId = new SqlParameter();
+                    paramId.ParameterName = "@Id";
+                    paramId.Value = id;
+                    cmd.Parameters.Add(paramId);
+
+                    con.Open();
+                    cmd.ExecuteNonQuery();
+                }
+            } catch {
+                throw;
+            }
+        }
     }
 }
