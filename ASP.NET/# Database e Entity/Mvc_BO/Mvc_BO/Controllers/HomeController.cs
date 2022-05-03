@@ -38,6 +38,7 @@ namespace Mvc_BO.Controllers {
 
         /*---------------------------------------- Create ---------------------------------------- */
         [HttpGet]
+        [ValidateAntiForgeryToken]
         public IActionResult Create() {
             return View();
         }

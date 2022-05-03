@@ -15,4 +15,12 @@
     <Folder Include="Data\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Fotos\foto1.jpg" />
+    <None Include="wwwroot\Fotos\foto2.jpg" />
+    <None Include="wwwroot\Fotos\foto3.jpg" />
+    <None Include="wwwroot\Fotos\foto5.jpg" />
+    <None Include="wwwroot\Fotos\foto4.jpg" />
+  </ItemGroup>
+
 </Project>
