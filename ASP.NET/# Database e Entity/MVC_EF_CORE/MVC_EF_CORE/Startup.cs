@@ -48,7 +48,7 @@ namespace MVC_EF_CORE {
             app.UseEndpoints(endpoints => {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Teste}/{action=Index}/{id?}");
             });
         }
     }

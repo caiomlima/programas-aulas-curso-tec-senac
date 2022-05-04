@@ -10,10 +10,13 @@ namespace MVC_EF_CORE.Models {
         [Key]
         public int Id { get; set; }
 
+        [Required, MaxLength(100)]
         public string Nome { get; set; }
 
+        [Required, MaxLength(50)]
         public string Sexo { get; set; }
 
+        [Required, MaxLength(150)]
         public string Email { get; set; }
 
         public DateTime Nascimento { get; set; }
