@@ -19,7 +19,7 @@ namespace Produtos_API.Services {
         }
 
         public IEnumerable<Produto> GetAllProducts() {
-            throw new NotImplementedException();
+            return _produtos;
         }
 
         public Produto GetById(int id) {
@@ -49,6 +49,7 @@ namespace Produtos_API.Services {
             }
             _produtos.RemoveAt(index);
             _produtos.Add(produto);
+            return true;
         }
     }
 }
