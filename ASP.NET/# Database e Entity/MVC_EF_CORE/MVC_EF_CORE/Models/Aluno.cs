@@ -10,16 +10,24 @@ namespace MVC_EF_CORE.Models {
         [Key]
         public int Id { get; set; }
 
-        [Required, MaxLength(100)]
+        [Required, StringLength(100)]
         public string Nome { get; set; }
 
-        [Required, MaxLength(50)]
+        [Required, StringLength(50)]
         public string Sexo { get; set; }
 
-        [Required, MaxLength(150)]
+        [Required, StringLength(150)]
         public string Email { get; set; }
 
         public DateTime Nascimento { get; set; }
+
+        [Required, StringLength(150)]
+        public string Foto { get; set; }
+
+        [Required, StringLength(150)]
+        public string Texto { get; set; }
+
+        public TipoSocio TipoSocio { get; set; }
 
     }
 }

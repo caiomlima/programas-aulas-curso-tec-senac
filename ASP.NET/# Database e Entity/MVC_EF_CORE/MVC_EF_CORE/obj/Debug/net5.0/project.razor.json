@@ -15659,8 +15659,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\MVC_EF_CORE\\MVC_EF_CORE\\Views\\AlunoTipoSocio\\Index.cshtml",
+      "TargetPath": "Views\\AlunoTipoSocio\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\MVC_EF_CORE\\MVC_EF_CORE\\Views\\Alunos\\Create.cshtml",
       "TargetPath": "Views\\Alunos\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\MVC_EF_CORE\\MVC_EF_CORE\\Views\\Teste\\Delete.cshtml",
+      "TargetPath": "Views\\Teste\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15674,8 +15684,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\MVC_EF_CORE\\MVC_EF_CORE\\Views\\Teste\\Details.cshtml",
+      "TargetPath": "Views\\Teste\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\MVC_EF_CORE\\MVC_EF_CORE\\Views\\Alunos\\Delete.cshtml",
       "TargetPath": "Views\\Alunos\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\MVC_EF_CORE\\MVC_EF_CORE\\Views\\Teste\\Edit.cshtml",
+      "TargetPath": "Views\\Teste\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {

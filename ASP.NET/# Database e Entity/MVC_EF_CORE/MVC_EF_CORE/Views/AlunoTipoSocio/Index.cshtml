@@ -1,0 +1,26 @@
+﻿@model IEnumerable<MVC_EF_CORE.Models.Aluno>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lista de Sócios</h1>
+
+@if(!Model.Any()) {
+    <p>Não existem dados</p>
+} else {
+    <table class="table-bordered" border="1">
+        <thead>
+            <tr>Nome</tr>
+            <tr>Taxa de Desconto (%)</tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model) {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Nome)</td>
+                    <td>@Html.DisplayFor(modelItem => item.TipoSocio.taxaDesconto)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

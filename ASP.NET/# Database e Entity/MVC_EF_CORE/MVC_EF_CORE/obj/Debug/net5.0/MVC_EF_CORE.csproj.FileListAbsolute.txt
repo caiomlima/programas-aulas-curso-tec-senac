@@ -458,3 +458,7 @@ C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# Database e Entity\MVC_EF_CORE
 C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# Database e Entity\MVC_EF_CORE\MVC_EF_CORE\obj\Debug\net5.0\Razor\Views\Alunos\Index.cshtml.g.cs
 C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# Database e Entity\MVC_EF_CORE\MVC_EF_CORE\obj\Debug\net5.0\Razor\Views\Teste\Index.cshtml.g.cs
 C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# Database e Entity\MVC_EF_CORE\MVC_EF_CORE\obj\Debug\net5.0\Razor\Views\Teste\Create.cshtml.g.cs
+C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# Database e Entity\MVC_EF_CORE\MVC_EF_CORE\obj\Debug\net5.0\Razor\Views\Teste\Edit.cshtml.g.cs
+C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# Database e Entity\MVC_EF_CORE\MVC_EF_CORE\obj\Debug\net5.0\Razor\Views\Teste\Delete.cshtml.g.cs
+C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# Database e Entity\MVC_EF_CORE\MVC_EF_CORE\obj\Debug\net5.0\Razor\Views\Teste\Details.cshtml.g.cs
+C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# Database e Entity\MVC_EF_CORE\MVC_EF_CORE\obj\Debug\net5.0\Razor\Views\AlunoTipoSocio\Index.cshtml.g.cs

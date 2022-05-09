@@ -31,8 +31,7 @@ namespace MVC_EF_CORE.Controllers
                 return NotFound();
             }
 
-            var aluno = await _context.Alunos
-                .FirstOrDefaultAsync(m => m.Id == id);
+            var aluno = await _context.Alunos.FirstOrDefaultAsync(m => m.Id == id);
             if (aluno == null) {
                 return NotFound();
             }

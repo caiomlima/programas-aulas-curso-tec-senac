@@ -11,6 +11,7 @@ namespace MVC_EF_CORE.Data {
         public DatabaseContext(DbContextOptions<DatabaseContext> options) : base(options) { }
 
         public DbSet<Aluno> Alunos { get; set; }
+        public DbSet<TipoSocio> TipoSocios{ get; set; }
 
     }
 }

@@ -28,6 +28,11 @@ namespace MVC_EF_CORE.Migrations
                         .HasMaxLength(150)
                         .HasColumnType("varchar(150)");
 
+                    b.Property<string>("Foto")
+                        .IsRequired()
+                        .HasMaxLength(150)
+                        .HasColumnType("varchar(150)");
+
                     b.Property<DateTime>("Nascimento")
                         .HasColumnType("datetime(6)");
 
@@ -41,9 +46,45 @@ namespace MVC_EF_CORE.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("varchar(50)");
 
+                    b.Property<string>("Texto")
+                        .IsRequired()
+                        .HasMaxLength(150)
+                        .HasColumnType("varchar(150)");
+
+                    b.Property<int?>("TipoSocioId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
 
+                    b.HasIndex("TipoSocioId");
+
                     b.ToTable("Alunos");
+                });
+
+            modelBuilder.Entity("MVC_EF_CORE.Models.TipoSocio", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<int>("DuracaoEmMeses")
+                        .HasColumnType("int");
+
+                    b.Property<int>("taxaDesconto")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("TipoSocios");
+                });
+
+            modelBuilder.Entity("MVC_EF_CORE.Models.Aluno", b =>
+                {
+                    b.HasOne("MVC_EF_CORE.Models.TipoSocio", "TipoSocio")
+                        .WithMany()
+                        .HasForeignKey("TipoSocioId");
+
+                    b.Navigation("TipoSocio");
                 });
 #pragma warning restore 612, 618
         }
