@@ -26,3 +26,4 @@ C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# API\Produtos_API\Produtos_API
 C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# API\Produtos_API\Produtos_API\obj\Debug\net5.0\ref\Produtos_API.dll
 C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# API\Produtos_API\Produtos_API\obj\Debug\net5.0\Produtos_API.pdb
 C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# API\Produtos_API\Produtos_API\obj\Debug\net5.0\Produtos_API.genruntimeconfig.cache
+C:\Users\caio.mlima5\Desktop\Aulas Senac\ASP.NET\# API\Produtos_API\Produtos_API\obj\Debug\net5.0\Produtos_API.csproj.AssemblyReference.cache
