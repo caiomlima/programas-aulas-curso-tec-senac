@@ -1,0 +1,59 @@
+﻿@model IEnumerable<CRUD_NetCore5.Models.Livro>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="text-center">Lista de Todos os Livros</h1>
+<hr>
+
+@if(TempData["mensagem"] != null) {
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["mensagem"]
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+
+<div class="col-md-2">
+    <a class="btn btn-success d-block" asp-action="Create" asp-controller="Livros">Criar Livro</a>
+</div>
+
+<div class="container">
+    @if(Model.Count() > 0) {
+        <table class="table">
+            <thead>
+                <tr>
+                    <td>@Html.DisplayNameFor(x => x.Id)</td>
+                    <td>@Html.DisplayNameFor(x => x.Titulo)</td>
+                    <td>@Html.DisplayNameFor(x => x.Descricao)</td>
+                    <td>@Html.DisplayNameFor(x => x.DataLancamento)</td>
+                    <td>@Html.DisplayNameFor(x => x.Autor)</td>
+                    <td>@Html.DisplayNameFor(x => x.Preco)</td>
+                    <td>Operações</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model) {
+                    <tr>
+                        <td>@item.Id</td>
+                        <td>@item.Titulo</td>
+                        <td>@item.Descricao</td>
+                        <td>@item.DataLancamento</td>
+                        <td>@item.Autor</td>
+                        <td>@item.Preco</td>
+                        <td>
+                            <a asp-controller="Livros" asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                            <a asp-controller="Livros" asp-action="Delete" asp-route-id="@item.Id">Apagar</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    } else {
+        <br>
+        <br>
+        <h3>Não exitem registros de livros no banco de dados</h3>
+    }
+</div>
