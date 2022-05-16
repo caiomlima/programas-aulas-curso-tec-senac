@@ -15667,6 +15667,11 @@
       "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\CRUD_NetCore5\\CRUD_NetCore5\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\caio.mlima5\\Desktop\\Aulas Senac\\ASP.NET\\# Database e Entity\\CRUD_NetCore5\\CRUD_NetCore5\\Views\\Livros\\Delete.cshtml",
+      "TargetPath": "Views\\Livros\\Delete.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

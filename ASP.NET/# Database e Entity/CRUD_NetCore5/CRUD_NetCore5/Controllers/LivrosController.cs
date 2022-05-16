@@ -27,6 +27,7 @@ namespace CRUD_NetCore5.Controllers {
             return View();
         }
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public IActionResult Create(Livro livro) {
             if(ModelState.IsValid) {
                 _context.Livros.Add(livro);
@@ -48,17 +49,46 @@ namespace CRUD_NetCore5.Controllers {
             if(livro == null) {
                 return NotFound();
             }
-            return View();
+            return View(livro);
         }
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public IActionResult Edit(Livro livro) {
-            return null;
+            if (ModelState.IsValid) {
+                _context.Livros.Update(livro);
+                _context.SaveChanges();
+                TempData["mensagem"] = "O livro foi alterado com sucesso";
+                return RedirectToAction(nameof(Index));
+            }
+            return RedirectToAction(nameof(Index));
         }
 
 
         /*-------------------------------------------------- Delete --------------------------------------------------*/
-        public IActionResult Delete() {
-            return View();
+        [HttpGet]
+        public IActionResult Delete(int? id) {
+            if (id == null || id == 0) {
+                return NotFound();
+            }
+            var livro = _context.Livros.Find(id);
+            if (livro == null) {
+                return NotFound();
+            }
+            return View(livro);
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult DeleteConfirmed(int? id) {
+            var livro = _context.Livros.Find(id);
+            if(ModelState.IsValid) {
+                _context.Livros.Remove(livro);
+                _context.SaveChanges();
+                return RedirectToAction(nameof(Index));
+            }
+            if(id == null) {
+                return NotFound();
+            }
+            return View(livro);
         }
     }
 }
